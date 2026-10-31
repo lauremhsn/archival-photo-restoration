@@ -44,7 +44,7 @@ def get(session, url, params=None, delay=API_DELAY):
             continue
         if r.status_code == 200:
             return r
-        if r.status_code in (429, 500, 502, 503, 504):
+        if r.status_code == 429 or r.status_code >= 500:  # incl. Cloudflare 52x
             wait = int(r.headers.get("Retry-After", 2 ** attempt * 30))
             print(f"  HTTP {r.status_code}; backing off {wait}s")
             time.sleep(wait)
@@ -202,7 +202,11 @@ def main():
     print(f"images: {len(records) - len(todo) - no_img} done, {len(todo)} to download, {no_img} without a JPG")
 
     for i, rec in enumerate(todo, 1):
-        r = get(session, rec["_image_url"], delay=IMAGE_DELAY)
+        try:
+            r = get(session, rec["_image_url"], delay=IMAGE_DELAY)
+        except requests.HTTPError as e:  # e.g. 404 on one image: skip it, a re-run will try again
+            print(f"  skip {rec['_id']}: {e}")
+            continue
         tmp = img_dir / f"{rec['_id']}.jpg.part"
         tmp.write_bytes(r.content)
         tmp.replace(img_dir / f"{rec['_id']}.jpg")  # atomic: no half-written JPGs after a crash

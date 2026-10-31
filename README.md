@@ -39,6 +39,27 @@ Naming rules: file stems are IDs (no spaces); the same ID links an image across 
 | Script | What it does |
 |---|---|
 | `scripts/matson_scraper.py` | Downloads Matson metadata + images from the loc.gov JSON API. Resumable, rate-limited (~20 req/min API limit — don't remove the delays). |
+| `scripts/degrade.py` | Degradation simulator: clean color → grayscale → degradations with severity 0–1. Writes `data/synthetic/` (clean, degraded, masks, params.jsonl). Reproducible per image, resumable. |
+
+### Degradation taxonomy
+
+Shared by the simulator and the Matson hand labels (`data/labels/`), so synthetic and real damage can be compared. Every type has a **severity in [0, 1]** (0 = barely visible, 1 = heaviest).
+
+| Core (default) | What it simulates |
+|---|---|
+| `fade` | fading / contrast loss, lifted blacks |
+| `noise` | additive noise, film-grain style |
+| `blur` | defocus or motion blur |
+| `scratches` | thin curved lines, mostly vertical *(in mask)* |
+| `dust` | dust / speckle *(in mask)* |
+
+Optional extras (off unless requested with `--types` / `--pool`): `cracks` and `emulsion_loss` (glass-plate damage LoC documents for Matson, in mask), `tone` (sepia cast), `jpeg` (digitization artifacts).
+
+```
+python scripts/degrade.py --src data/clean_source --out data/synthetic                       # 1-4 random core types, random severity
+python scripts/degrade.py --src data/clean_source --out data/syn_blur_0.5 --types blur --severity 0.5   # robustness sweep
+python scripts/degrade.py --figure path/to/image.jpg                                         # figures/degradation_examples.png
+```
 
 ```
 python scripts/matson_scraper.py --max-items 50                     # smoke test
