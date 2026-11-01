@@ -6,9 +6,11 @@ a mask of the structured damage and the exact parameters used, so every pair is
 reproducible.
 
 Taxonomy (team decision; the same names are used for the Matson hand labels):
-  core (default)  fade, noise, blur, scratches, dust
-  extra (opt-in)  cracks, emulsion_loss  - Matson glass-plate damage documented by LoC
-                  tone, jpeg             - sepia cast / digitization artifacts
+  core   fade, noise, blur, scratches, dust
+  extra  cracks, emulsion_loss  - Matson glass-plate damage documented by LoC
+         jpeg                   - digitization artifacts
+  Default random pool = core + extra. `tone` (sepia cast) is opt-in only: it puts
+  color into the colorizer's input, and real tone is measured in the EDA instead.
 Structured types (scratches, dust, cracks, emulsion_loss) are drawn into the mask.
 
 Severity: 0 = barely visible, 1 = heaviest. Fixed with --severity (e.g. for a
@@ -35,7 +37,8 @@ import cv2
 import numpy as np
 
 CORE = ["fade", "noise", "blur", "scratches", "dust"]
-EXTRA = ["cracks", "emulsion_loss", "tone", "jpeg"]
+EXTRA = ["cracks", "emulsion_loss", "jpeg"]
+DEFAULT_POOL = CORE + EXTRA  # everything except tone (opt-in via --types / --pool)
 STRUCTURED = ["scratches", "dust", "cracks", "emulsion_loss"]
 # Order of application: the print/negative fades and tones, the optics blur, film noise,
 # then physical damage on top, and JPEG compression from digitization last.
@@ -236,7 +239,7 @@ def _jsonable(v):
     return v
 
 
-def degrade(rgb, seed, types=None, severity=None, pool=CORE):
+def degrade(rgb, seed, types=None, severity=None, pool=DEFAULT_POOL):
     """rgb: HxWx3 uint8 clean color image.
 
     types:    apply exactly these; if None, 1-4 are drawn at random from `pool`.
@@ -368,8 +371,8 @@ def main():
     ap.add_argument("--max-side", type=int, default=512, help="resize so the long side is at most this (0 = keep)")
     ap.add_argument("--seed", type=int, default=693)
     ap.add_argument("--types", nargs="+", choices=ORDER, help="apply exactly these types to every image")
-    ap.add_argument("--pool", nargs="+", choices=ORDER, default=CORE,
-                    help="types to draw 1-4 from at random when --types is not given (default: the 5 core types)")
+    ap.add_argument("--pool", nargs="+", choices=ORDER, default=DEFAULT_POOL,
+                    help="types to draw 1-4 from at random when --types is not given (default: all except tone)")
     ap.add_argument("--severity", type=severity, help="fixed severity 0-1 for every type (default: random per type)")
     ap.add_argument("--limit", type=int, help="only process the first N images")
     ap.add_argument("--figure", help="make the severity-sweep figure from this one image instead of a batch run")

@@ -45,18 +45,21 @@ Naming rules: file stems are IDs (no spaces); the same ID links an image across 
 
 Shared by the simulator and the Matson hand labels (`data/labels/`), so synthetic and real damage can be compared. Every type has a **severity in [0, 1]** (0 = barely visible, 1 = heaviest).
 
-| Core (default) | What it simulates |
+| Type | What it simulates |
 |---|---|
 | `fade` | fading / contrast loss, lifted blacks |
 | `noise` | additive noise, film-grain style |
 | `blur` | defocus or motion blur |
 | `scratches` | thin curved lines, mostly vertical *(in mask)* |
 | `dust` | dust / speckle *(in mask)* |
+| `cracks` | glass-plate breaks, long near-straight lines *(in mask)* |
+| `emulsion_loss` | ragged patches where the emulsion flaked off *(in mask)* |
+| `jpeg` | digitization / compression artifacts |
 
-Optional extras (off unless requested with `--types` / `--pool`): `cracks` and `emulsion_loss` (glass-plate damage LoC documents for Matson, in mask), `tone` (sepia cast), `jpeg` (digitization artifacts).
+All of the above are in the default random pool. `tone` (sepia cast) exists but is opt-in only (`--types tone`): it adds color to the colorizer's input, and the real tone of Matson scans is measured in the EDA (distance from neutral gray in Lab) rather than hand-labeled.
 
 ```
-python scripts/degrade.py --src data/clean_source --out data/synthetic                       # 1-4 random core types, random severity
+python scripts/degrade.py --src data/clean_source --out data/synthetic                       # 1-4 random types, random severity
 python scripts/degrade.py --src data/clean_source --out data/syn_blur_0.5 --types blur --severity 0.5   # robustness sweep
 python scripts/degrade.py --figure path/to/image.jpg                                         # figures/degradation_examples.png
 ```
