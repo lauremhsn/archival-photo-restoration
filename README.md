@@ -39,6 +39,7 @@ Naming rules: file stems are IDs (no spaces); the same ID links an image across 
 | Script | What it does |
 |---|---|
 | `scripts/matson_scraper.py` | Downloads Matson metadata + images from the loc.gov JSON API. Resumable, rate-limited (~20 req/min API limit — don't remove the delays). |
+| `scripts/label_matson.py` | Keyboard tool for hand-labeling degradation types on a fixed random sample of Matson images; one CSV per labeler in `data/labels/`, `--summary` gives counts and Cohen's kappa agreement. |
 | `scripts/degrade.py` | Degradation simulator: clean color → grayscale → degradations with severity 0–1. Writes `data/synthetic/` (clean, degraded, masks, params.jsonl). Reproducible per image, resumable. |
 
 ### Degradation taxonomy
