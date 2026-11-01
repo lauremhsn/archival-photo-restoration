@@ -34,7 +34,6 @@ from degrade import CORE, EXTRA, degrade, image_seed  # noqa: E402
 IMG_DIR = "data/matson"
 FIG_DIR = "figures"
 CSV = "matson.csv"
-OUT_CSV = "results_robustness.csv"
 
 
 def load_meta():
@@ -73,6 +72,7 @@ def main():
     ap.add_argument("--seed", type=int, default=693)
     args = ap.parse_args()
 
+    out_csv = f"results_robustness_{args.model}.csv"
     device = "cuda" if torch.cuda.is_available() else "cpu"
     net = (colorizers.siggraph17(pretrained=True) if args.model == "siggraph17"
            else colorizers.eccv16(pretrained=True)).eval().to(device)
@@ -116,11 +116,11 @@ def main():
 
     print(f"\n{total} colorizations in {time.time() - t0:.0f}s")
 
-    with open(OUT_CSV, "w", newline="", encoding="utf-8") as fh:
+    with open(out_csv, "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
         w.writeheader()
         w.writerows(rows)
-    print(f"Wrote {OUT_CSV}")
+    print(f"Wrote {out_csv}")
 
     by = defaultdict(list)
     for r in rows:
@@ -175,9 +175,9 @@ def main():
     ax[1].grid(alpha=0.3)
 
     fig.tight_layout()
-    fig.savefig(f"{FIG_DIR}/robustness_sweep.png", dpi=150)
+    fig.savefig(f"{FIG_DIR}/robustness_sweep_{args.model}.png", dpi=150)
     plt.close(fig)
-    print(f"\nWrote {FIG_DIR}/robustness_sweep.png")
+    print(f"\nWrote {FIG_DIR}/robustness_sweep_{args.model}.png")
 
 
 if __name__ == "__main__":
