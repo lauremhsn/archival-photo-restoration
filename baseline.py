@@ -58,8 +58,26 @@ def delta_e(a, b):
     return float(np.sqrt(((la - lb) ** 2).sum(axis=2)).mean())
 
 
+def delta_e_ab(a, b):
+    la = skcolor.rgb2lab(a)[:, :, 1:]
+    lb = skcolor.rgb2lab(b)[:, :, 1:]
+    return float(np.sqrt(((la - lb) ** 2).sum(axis=2)).mean())
+
+PREPROCESS = False
+
+
+def preprocess(grey_u8):
+    g = grey_u8.astype(np.float32) / 255.0
+    g = restoration.denoise_bilateral(g, sigma_color=0.08, sigma_spatial=3)
+    g = exposure.equalize_adapthist(g, clip_limit=0.01)
+    return (np.clip(g, 0, 1) * 255).astype(np.uint8)
+
 def colorize(net, rgb_img, device):
     tens_l_orig, tens_l_rs = colorizers.preprocess_img(rgb_img, HW=(256, 256))
+    if PREPROCESS:
+        g = np.asarray(Image.fromarray(rgb_img).convert("L"))
+        enhanced = np.stack([preprocess(g)] * 3, axis=2)
+        _, tens_l_rs = colorizers.preprocess_img(enhanced, HW=(256, 256))
     tens_l_rs = tens_l_rs.to(device)
     with torch.no_grad():
         out = colorizers.postprocess_tens(tens_l_orig, net(tens_l_rs).cpu())
@@ -70,10 +88,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--model", default="siggraph17", choices=["eccv16", "siggraph17"])
     ap.add_argument("--limit", type=int, default=0, help="0 = all")
+    ap.add_argument("--preprocess", action="store_true")
     args = ap.parse_args()
 
-    global OUT_DIR
-    OUT_DIR = f"outputs/baseline_{args.model}"
+    global OUT_DIR, PREPROCESS
+    PREPROCESS = args.preprocess
+    tag = f"{args.model}_pre" if args.preprocess else args.model
+    OUT_DIR = f"outputs/baseline_{tag}"
     device = "cuda" if torch.cuda.is_available() else "cpu"
     print(f"device: {device}  model: {args.model}")
 
@@ -111,6 +132,7 @@ def main():
                 "psnr": peak_signal_noise_ratio(ref, pred, data_range=1.0),
                 "ssim": structural_similarity(ref, pred, channel_axis=2, data_range=1.0),
                 "delta_e": delta_e(ref, pred),
+                "delta_e_ab": delta_e_ab(ref, pred),
                 "colourfulness_pred": colourfulness(pred),
                 "colourfulness_ref": colourfulness(ref),
                 "title": m.get("title", ""),
@@ -139,7 +161,7 @@ def main():
 
     print(f"\nTIER A - paired, autochromes (n={len(tier_a)})")
     if tier_a:
-        for k in ["psnr", "ssim", "delta_e"]:
+        for k in ["psnr", "ssim", "delta_e", "delta_e_ab"]:
             vals = [r[k] for r in tier_a]
             print(f"  {k}: mean {np.mean(vals):.3f}  median {np.median(vals):.3f}  "
                   f"std {np.std(vals):.3f}")
@@ -156,7 +178,7 @@ def main():
 
     for name, rows in [("tier_a", tier_a), ("tier_b", tier_b)]:
         if rows:
-            with open(f"results_{name}_{args.model}.csv", "w", newline="",
+            with open(f"results_{name}_{tag}.csv", "w", newline="",
                       encoding="utf-8") as fh:
                 w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
                 w.writeheader()
@@ -183,9 +205,9 @@ def main():
                 ax.set_title(lab, fontsize=9)
                 ax.axis("off")
         fig.tight_layout()
-        fig.savefig(f"{FIG_DIR}/baseline_qualitative_{args.model}.png", dpi=150)
+        fig.savefig(f"{FIG_DIR}/baseline_qualitative_{tag}.png", dpi=150)
         plt.close(fig)
-        print(f"\nWrote {FIG_DIR}/baseline_qualitative_{args.model}.png")
+        print(f"\nWrote {FIG_DIR}/baseline_qualitative_{tag}.png")
 
     print("Wrote results_tier_a/b CSVs and outputs/baseline/")
 

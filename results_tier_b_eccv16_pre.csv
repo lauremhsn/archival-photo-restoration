@@ -1,0 +1,255 @@
+id,colourfulness,sharpness,dynamic_range,title
+2019701940,0.11142673343420029,4.413728340434903,246.0,"El Khazne, Petra"
+2019701952,0.17229443788528442,6.964878327645145,170.0,Palestine. Transjordania. Petra
+2019701953,0.18156889081001282,8.446535822506647,178.0,Palestine. Transjordania. Petra
+2019701959,0.13950248062610626,9.968748558519351,171.0,Distant view. Navisha Lake
+2019701966,0.18977844715118408,6.83099801452911,238.0,[Rocks in Petra?]
+2019701969,0.17043186724185944,9.481107601217145,242.0,"Ch. [i.e., Church] of Gethsemane"
+2019701974,0.18512219190597534,5.214615228496582,137.0,Arusha wedding dancers. Tanganyika
+2019701975,0.18362188339233398,6.658896899754128,245.0,Roman antique glass
+2019701976,0.19880077242851257,7.109640889264626,241.0,Roman antique glass
+2019701980,0.14983880519866943,8.51509157343662,160.0,Garden
+2019705367,0.12991854548454285,10.413509120192176,199.0,Jaffa to Jerusalem. Jaffa from the sea
+2019705368,0.14232492446899414,6.707042374370514,211.0,"Jaffa to Jerusalem. Jaffa, view from House of Simon the Tanner"
+2019705369,0.1864822655916214,6.750729346946956,216.0,"Jaffa to Jerusalem. Jaffa, sunset from the House of Simon the Tanner"
+2019705370,0.16361559927463531,9.559190741926088,195.0,Jaffa to Jerusalem. Lydda. Acts 9:32-38
+2019705371,0.13055221736431122,10.652154648487071,219.0,"Jaffa to Jerusalem. Ramleh, Aramathea. Matt. 27:57"
+2019705372,0.12725722789764404,10.82564588100082,216.0,"Jaffa to Jerusalem. Tower of the 40 Martyrs, Ramleh"
+2019705373,0.12176690995693207,9.552110952959822,217.0,Jaffa to Jerusalem. Plain of Sharon from the Tower of Ramleh
+2019705374,0.15574494004249573,9.313455865562045,201.0,Jaffa to Jerusalem. Antipatris. Old caravansaray from the days of St. Paul. Acts 23:11
+2019705375,0.09954988956451416,5.241024869209479,225.0,Jaffa to Jerusalem. Beth Shemesh from Beit Jamal
+2019705376,0.16327409446239471,6.729606917776337,199.0,Jaffa to Jerusalem. Beth Shemesh. Excavations of North Wall. I Sam. 6:9
+2019705377,0.20557108521461487,11.52024512690989,220.0,Jaffa to Jerusalem. Gezer. Josh 10:33. I Kings 9:15
+2019705378,0.11061375588178635,7.391447304630427,213.0,Jaffa to Jerusalem. Zorah. Home of Samson. Judges 13.2
+2019705379,0.1972695142030716,12.1481339014774,229.0,Jaffa to Jerusalem. Samson's cave
+2019705380,0.13679586350917816,10.642324703567118,215.0,Jaffa to Jerusalem. Valley of Ajalon. Joshua 10:12-15
+2019705381,0.17002971470355988,9.65089975408577,216.0,Jaffa to Jerusalem. Ascent to Beth Horon
+2019705382,0.16477608680725098,10.395268382700827,212.0,Jaffa to Jerusalem. Upper Beth Horon
+2019705383,0.1558092087507248,10.631849806322194,212.0,Jaffa to Jerusalem. Upper Beth Horon village. Joshua 16:5
+2019705384,0.15864364802837372,11.021825866085587,218.0,Jaffa to Jerusalem. Lower Beth Horon. Joshua 16:3
+2019705385,0.169143408536911,6.975858612285395,204.0,Jaffa to Jerusalem. Kirjath Jearim. Abu Ghosh. I Sam. 7:1-2
+2019705573,0.18967849016189575,17.287399831270484,232.0,Northward from Jerusalem. Nob. Home of the Priests. I Sam. 21:1
+2019705574,0.15876805782318115,10.224422857326346,217.0,Northward from Jerusalem. Rama of Benjamin
+2019705575,0.18305116891860962,11.972161984680735,230.0,"Northward from Jerusalem. Tel el-Nasbeh excavations, city gate"
+2019705576,0.14393466711044312,12.492472783793227,225.0,"Northward from Jerusalem. Beeroth, ""A day's journey."" Luke 2:44-49, Josh. 9:17"
+2019705577,0.19616694748401642,11.15024410559251,228.0,Northward from Jerusalem. Ramallah
+2019705578,0.11247565597295761,12.04084344905083,227.0,"Northward from Jerusalem. Hill of Tibna, Timnath. Gen. 38:12-14, Josh. 15:57"
+2019705579,0.16894014179706573,9.369755338716123,226.0,Northward from Jerusalem. Hill country of Ephraim. Judges 4:5
+2019705580,0.18817871809005737,13.703594619252362,223.0,"Northward from Jerusalem. Taiybeh village, Ephraim. John 11:54"
+2019705582,0.14766670763492584,10.762543096947132,225.0,Northward from Jerusalem. Plain of the Maidens. Judges 21:19-21
+2019705583,0.16493308544158936,11.404605925718629,226.0,Northward from Jerusalem. Ruins at Jacob's Well
+2019705584,0.1335328370332718,12.900212600830596,227.0,Northward from Jerusalem. Joseph's Tomb. Josh 24:32
+2019705585,0.19133621454238892,13.301512568325856,235.0,Northward from Jerusalem. Sychar and Mt. Gerizim. John 4:5-42
+2019705586,0.1903468370437622,7.9594226260867895,215.0,Northward from Jerusalem. Samaritan Passover pilgrimage on Mt. Gerizim
+2019705587,0.16183893382549286,12.553731596291975,223.0,Northward from Jerusalem. Nablus (Schechem)
+2019705589,0.1775696724653244,10.458052712340969,223.0,Northward from Jerusalem. Ruins of Samaria
+2019705590,0.16472774744033813,8.29386166461226,228.0,Northward from Jerusalem. Samaria. Remains of the grand colonnade
+2019705591,0.13603034615516663,10.36623341186795,221.0,"Northward from Jerusalem. Samaria. Crusader Church of St. John (now a Moslem [i.e., Muslim] mosque). Acts 8:5"
+2019705592,0.16337011754512787,5.77736350199932,206.0,"Northward from Jerusalem. Jenin, the mosque. (Traditional. Healing of the Ten Lepers). Luke 17:12-19"
+2019705593,0.20286661386489868,6.411054617559925,213.0,"Northward from Jerusalem. Dothan, the Tel (Mound). Gen. 37:17"
+2019705594,0.14189060032367706,12.26157203826617,230.0,Northward from Jerusalem. Dothan. Joseph's well. Gen. 37:25
+2019705595,0.11696796119213104,14.888693449490892,233.0,Northward from Jerusalem. Tower of Jezreel in Jezreel. II Kings 9:17
+2019705596,0.1632617712020874,8.625401065621595,225.0,"Northward from Jerusalem. Ahab's Well, Jezreel"
+2019705597,0.1657726764678955,9.453947897125644,209.0,"Northward from Jerusalem. Hill of Moreh or Mt. Gilboa (Little Hermon) and Plain of Esdraelon. II Sam. 1:6, I Chron. 10:1"
+2019705598,0.14691942930221558,12.110875004484587,217.0,Northward from Jerusalem. Gideon's Spring at the foot of Mt. Gilboa. Judges 7:1
+2019705599,0.1761729121208191,11.273885073657596,224.0,Northward from Jerusalem. Bethshean and Mts. of Gilboa. I Sam. 31:10
+2019705600,0.16525864601135254,12.513566973574255,224.0,Northward from Jerusalem. Shunem village. II Kings 4:8
+2019705601,0.20691734552383423,14.154642562880388,223.0,Northward from Jerusalem. Endor village. I Sam. 28:7
+2019705602,0.22244834899902344,7.053560524896695,229.0,"Northward from Jerusalem. Megiddo, Tel el-Mutesellim. II Kings 23:29"
+2019705603,0.11881761252880096,10.792684400104593,224.0,"Northward from Jerusalem. Mt. Tabor, showing zigzag ascent, air. Judges 4:14, Matt. 17:1"
+2019705604,0.1327800154685974,6.849020993156876,201.0,"Northward from Jerusalem. Hills of Nazareth, showing Hill of Precipitation, from Esdraelon"
+2019705605,0.18427050113677979,10.243286504126914,221.0,Northward from Jerusalem. Nazareth and Hill of Precipitation. Luke 4:28-30
+2019705606,0.16009730100631714,8.814373595922739,217.0,"Northward from Jerusalem. Nazareth, Church of the Annunciation. Luke 1:30, 31"
+2019705607,0.16110441088676453,5.844882022585959,219.0,"Northward from Jerusalem. Nazareth, Chapel of the Carpenter Shop. Matt. 13:55, Mark 6:3"
+2019705608,0.11772431433200836,7.588228692522941,226.0,"Northward from Jerusalem. Nazareth, the Virgin's Fount"
+2019705609,0.1921239197254181,6.3706656559721555,212.0,"Northward from Jerusalem. Nazareth, chapel on the site of the ancient synagogue. Luke 4:16"
+2019705610,0.17264579236507416,10.332915506791219,214.0,"Northward from Jerusalem. Cana of Galilee, the spring. John 2:1"
+2019705611,0.18245220184326172,10.796803169043383,219.0,Around the Sea of Galilee. Tiberias from the west
+2019705612,0.18644960224628448,7.053421050538825,220.0,Around the Sea of Galilee. Tiberias (showing mosque)
+2019705613,0.15117517113685608,8.28927969342481,218.0,Around the Sea of Galilee. Tiberias from the sea
+2019705615,0.14863792061805725,10.761198153902491,223.0,Around the Sea of Galilee. Magdala. Matt. 15:39
+2019705616,0.17857185006141663,5.027310849174388,215.0,Around the Sea of Galilee. Sunrise on Sea of Galilee
+2019705617,0.17755761742591858,6.4794514362994455,209.0,"Around the Sea of Galilee. Evening scene, Bethsaida ""Home of the Fishermen"""
+2019705618,0.10827453434467316,11.887841506967284,215.0,"Around the Sea of Galilee. Tabgha, Bethsaida. John 1:44"
+2019705619,0.18618445098400116,6.7038781722239955,211.0,Around the Sea of Galilee. Fishermen on the Sea of Galilee
+2019705620,0.1448400914669037,3.152851112631698,193.0,Around the Sea of Galilee. Control boat at loop of drag-net. Bethsaida
+2019705621,0.1442643702030182,8.057745588255397,198.0,Around the Sea of Galilee. Plain of Gennesareth and the Lake. Luke 5:1
+2019705622,0.12485980987548828,6.227716172046067,168.0,"Around the Sea of Galilee.Capernaum, landing place. John 6:17"
+2019705623,0.19202347099781036,9.517330832328794,211.0,"Around the Sea of Galilee. Capernaum, partially restored synagogue. Luke 7:5"
+2019705624,0.19982239603996277,10.493614818560834,213.0,"Around the Sea of Galilee. Capernaum, ruins, eastern stairway"
+2019705625,0.1388549506664276,7.056071156676282,198.0,"Around the Sea of Galilee. Safed. ""A city that is set on a hill cannot be hid"" (Matt. 5:14)"
+2019705626,0.13122393190860748,10.656379296509344,218.0,Around the Sea of Galilee. Country of the Gadarenes
+2019705627,0.12336461991071701,7.97145331753837,211.0,Around the Sea of Galilee. Hill of Gamala
+2019705628,0.15738540887832642,7.952502003213614,206.0,"Around the Sea of Galilee. Ain Geb, near ancient Gadara"
+2019705629,0.15412142872810364,10.368976580807447,216.0,Around the Sea of Galilee. Ruins of Kadesh Naphtali. Judges 4:6
+2019705630,0.22043167054653168,11.646894472467148,206.0,"Around the Sea of Galilee. Tel el-Kadeh, Hazor. Josh. 11:10, 13"
+2019705631,0.158445343375206,6.6959473704387245,212.0,"Damascus, Palmyra and Baalbek. Mt. Hermon from the East. Luke 9:28"
+2019705632,0.19960945844650269,19.047846410182405,215.0,"Damascus, Palmyra and Baalbek. Dan, Tel el-Kadi, a source of the Jordan"
+2019705633,0.2145727425813675,13.504062477825206,202.0,"Damascus, Palmyra and Baalbek. Looking south from Dan"
+2019705634,0.1469605267047882,13.988755460334268,216.0,"Damascus, Palmyra and Baalbek. Banias, Caesarea Philippi. Matt. 16:13"
+2019705635,0.17754659056663513,15.69582541768493,216.0,"Damascus, Palmyra and Baalbek. Banias, the Roman bridge"
+2019705636,0.21082863211631775,12.488907897132846,221.0,"Damascus, Palmyra and Baalbek. Damascus from Bab Sherki"
+2019705637,0.20670029520988464,12.561407555923155,237.0,"Damascus, Palmyra and Baalbek. Damascus, showing covered part of Straight Street. Acts 9:11"
+2019705638,0.14874199032783508,9.988137959935175,216.0,"Damascus, Palmyra and Baalbek. Damascus, River Abana. II Kings 5:12"
+2019705639,0.15132996439933777,9.533901162175741,221.0,"Damascus, Palmyra and Baalbek. Damascus, House of Ananias. Acts 9:10"
+2019705640,0.15549203753471375,11.450717641467998,226.0,"Damascus, Palmyra and Baalbek. Damascus, House of Naaman. II Kings 5:"
+2019705641,0.21036911010742188,13.389377812106067,230.0,"Damascus, Palmyra and Baalbek. Damascus, St. Paul's Wall. Acts 9:25"
+2019705642,0.18678556382656097,8.780023708674303,225.0,"Damascus, Palmyra and Baalbek. Damascus, St. Paul's Wall, restored"
+2019705643,0.14436088502407074,8.696091393289622,222.0,"Damascus, Palmyra and Baalbek. Damascus, Bab Sherki, gateway to Straight Street. Acts 9:24"
+2019705644,0.17462366819381714,9.758116154046949,225.0,"Damascus, Palmyra and Baalbek. An old bridge on the River Oeontes, [i.e., Orontes] near Riblah. II Kings 23:33"
+2019705645,0.18534529209136963,6.049045174209927,195.0,"Damascus, Palmyra and Baalbek. Palmyra, Temple of Baal"
+2019705646,0.1469072699546814,9.114259610884945,202.0,"Damascus, Palmyra and Baalbek. Baalbek, the grand quarry"
+2019705647,0.16549602150917053,9.11598722122894,205.0,"Damascus, Palmyra and Baalbek. Baalbek, Temple of the Sun"
+2019705648,0.1081467941403389,12.974734261874595,217.0,"Along the Mediterranean coast, southward. Antioch, where followers of Christ were first called Christians. Acts 11:26"
+2019705649,0.1719614565372467,5.518871308989242,217.0,"Along the Mediterranean coast, southward. Antioch, St. Peter's shrine in cave. Gal. 2:11"
+2019705650,0.18158003687858582,6.438753290946157,216.0,"Along the Mediterranean coast, southward. Beirut, pigeon rocks"
+2019705651,0.18829971551895142,9.170623047054168,219.0,"Along the Mediterranean coast, southward. Beirut, American University College Hall and the chapel"
+2019705652,0.18271566927433014,7.803027984810945,221.0,"Along the Mediterranean coast, southward. Beirut, College Hall"
+2019705653,0.15402023494243622,3.250645647544103,221.0,"Along the Mediterranean coast, southward. Beirut, sunset over A.U.B. campus"
+2019705654,0.15457724034786224,8.320134636132117,230.0,"Along the Mediterranean coast, southward. Tyre, harbor. Acts 21:3"
+2019705655,0.21244817972183228,9.20476082717194,227.0,"Along the Mediterranean coast, southward. Tyre, Hiram's Monument. I Kings 5:1"
+2019705656,0.18073993921279907,7.871260207976813,230.0,"Along the Mediterranean coast, southward. Akka (Acre), Carmel Range, etc. Judges 1:31"
+2019705657,0.13913525640964508,10.713926266388777,204.0,"Along the Mediterranean coast, southward. River Kishon. I Kings 18:40"
+2019705658,0.1369779407978058,8.646825892135082,232.0,"Along the Mediterranean coast, southward. Haifa from Mt. Carmel showing the harbor"
+2019705659,0.21310126781463623,3.785389362828826,213.0,"Along the Mediterranean coast, southward. Haifa at night from Mt. Carmel"
+2019705660,0.10319887101650238,6.211297901136845,216.0,"Along the Mediterranean coast, southward. Mt. Carmel, sunset. I Kings 18:19"
+2019705661,0.11171532422304153,12.51309900789349,236.0,"Along the Mediterranean coast, southward. Elijah's Spring on Mt. Carmel"
+2019705662,0.19929209351539612,11.458526201284439,229.0,"Along the Mediterranean coast, southward. Caesarea, village and bay. Acts 10:1, 23:33"
+2019705663,0.1646273136138916,14.076350691383498,221.0,"Petra, Mt. Hor and Akabah. Petra Mountain Ridge, Mount Seir. Gen. 14:5-6, 32:3"
+2019705664,0.16661590337753296,7.5063181291907135,231.0,"Petra, Mt. Hor and Akabah. El-Khazneh, capitals of the portico"
+2019705665,0.1353413611650467,12.258460528813863,234.0,"Petra, Mt. Hor and Akabah. Petra, highly colored veining in sandstone"
+2019705666,0.21153175830841064,7.10070078170575,218.0,"Petra, Mt. Hor and Akabah. Mt. Hor, Tomb of Aaron. Num. 20:28"
+2019705667,0.17713662981987,10.04302646136944,214.0,Sinai. Springs of Moses. Exodus 15:23
+2019705668,0.15640845894813538,7.314997450756594,217.0,Sinai. Wilderness of Shur. Exodus 15:22
+2019705669,0.14252212643623352,8.035190243840553,206.0,Sinai. Wilderness of Sin. Exodus 16:1
+2019705670,0.21198467910289764,6.097888724363299,201.0,Sinai. Typical scene in Sinai (Sugar Loaf Hill)
+2019705671,0.20967665314674377,9.858738947135409,206.0,"Sinai. Oasis of Wady Feiran, Elim. Exodus 16:1"
+2019705672,0.16443286836147308,10.632047627438592,222.0,"Sinai. Wady Feiran, luxurious palm grove"
+2019705673,0.18495817482471466,11.881524465589312,212.0,"Sinai. Wady Feiran, el Mahrad, Peran"
+2019705674,0.1595655232667923,13.1457014268035,211.0,"Sinai. Wady Feiran, Bedouin tents"
+2019705675,0.14366480708122253,7.692919025233658,215.0,Sinai. Sinai caravan on the march
+2019705676,0.13950616121292114,11.266162509224108,238.0,Sinai. Palm grove at el Wad
+2019705677,0.19211535155773163,8.521528912609918,208.0,Sinai. Ras Safsaf called Mt. Sinai or Gebel Mousa. Exodus 24:16
+2019705678,0.1760331243276596,11.08942848963273,229.0,"Sinai. Wady Es-Sheikh, (Peran)"
+2019705679,0.15214969217777252,9.887683514822198,228.0,Sinai. Hill of Aaron. Exodus 32:4
+2019705680,0.26712271571159363,4.786481463595872,211.0,Sinai. Hill of Aaron from Jethro's path
+2019705681,0.2260916531085968,10.623165563380448,225.0,Sinai. Monastery of St. Katherine from nearby hillside
+2019705682,0.172342911362648,11.860519435319246,225.0,"Sinai. Monastery of St. Katherine, close view"
+2019705683,0.18051618337631226,8.240365745542196,221.0,"Sinai. Monastery of St. Katherine, showing adjoining garden"
+2019705684,0.17618724703788757,7.688417144912758,233.0,Sinai. Chapel on the summit of Mt. Sinai
+2019705685,0.11679360270500183,11.142946287656494,224.0,Sinai. Chapel of Elijah on Mt. Sinai
+2019705686,0.17971235513687134,2.2784964780473547,212.0,Sinai. Sunrise from summit of Gebel Mousa
+2019705687,0.16205647587776184,7.461487777010284,226.0,Sinai. South East of Jebel Hellal (possibly Kibroth Hattavah). Num. 1134
+2019705689,0.1631932109594345,8.911366945554185,208.0,"Sinai. Ain Gedeirat, near source of the spring. Num. 20:11"
+2019705690,0.13454800844192505,5.100260219336315,219.0,"Sinai. El-Kossaima, looking east toward Ain Gedeirat"
+2019705691,0.16985569894313812,5.733853808746834,198.0,"Iraq (Babylonia). Euphrates River, air, showing circuitous treeless course"
+2019705692,0.1330779790878296,11.917829260988325,221.0,"Iraq (Babylonia). Tigris River, air, showing palm groves on its banks. Psalm 137"
+2019705693,0.1471809446811676,6.917641361765431,217.0,"Iraq (Babylonia). Baghdad, sunrise seen through palm groves from Y.M.C.A. building"
+2019705694,0.15818479657173157,9.65153055038937,225.0,Iraq (Babylonia). Baghdad from the Haidar Khana Mosque
+2019705695,0.10191697627305984,4.177841975428598,211.0,"Iraq (Babylonia). Euphrates River, fisherman throwing net, sunset scene"
+2019705696,0.19105198979377747,5.071122255250748,200.0,"Iraq (Babylonia). Birs Nimrud, Tower of Babel. Gen. 11:4"
+2019705697,0.16300314664840698,6.352138409596001,223.0,"Iraq (Babylonia). Birs Nimrud, Shrine to Abraham"
+2019705698,0.14087632298469543,9.522537621895784,216.0,"Iraq (Babylonia). Kifl, shrine to Ezekiel"
+2019705699,0.22894784808158875,6.726065478424279,190.0,"Iraq (Babylonia). Nineveh, Tomb of Jonah"
+2019705700,0.22126513719558716,3.931197126569677,216.0,"Iraq (Babylonia). Kirkuk, river of crude oil"
+2019705722,0.09321314096450806,4.506518500584005,213.0,Egypt. Pyramids. Great Pyramid of Cheops vividly reflected in Nile overflow
+2019705723,0.1370311826467514,7.648016340151929,217.0,Egypt. Pyramids. Pyramids and palm grove reflections
+2019705772,0.1327120065689087,10.814967792297494,198.0,Luke 1:39-56. Mary goeth into the hill country of Judea and saluteth Elizabeth
+2019705773,0.13866698741912842,10.39687373154719,203.0,Luke 2:40. Mary and child Jesus in Nazareth
+2019705774,0.13975229859352112,11.354098501727526,188.0,"Luke 2:41-50. Jesus goeth up with his parents to the Passover at the age of twelve years; and tarreith behind the temple, seeking instruction from the doctors of the law"
+2019705775,0.13771580159664154,12.27958565363533,193.0,"Luke 2:51, 52. Jesus returneth with his parents to Nazareth where he is subject unto them"
+2019705776,0.15717267990112305,10.810858486189288,210.0,Matt. 4.1. The spirit then driveth Jesus into the wilderness
+2019705777,0.12758618593215942,13.499880603758026,194.0,"Mark 1:13. And He was there in the wilderness forty days, tempted of Satan"
+2019705778,0.17380419373512268,6.670240546602141,193.0,"John 1:35-42. Jesus then returneth to Jordan, where John and Andrew follow Him, the latter bringing also his brother Simon"
+2019705779,0.16289116442203522,12.11694276954027,187.0,"Luke 6:12-23. Jesus goeth up into a mountain apart, wither He is followed by the multitude and His disciples. From these He selecteth twelve to be His disciples"
+2019705780,0.14074578881263733,10.928302064621423,187.0,"John 1:43-45. With these and two other disciples, Philip and Nathaniel, Jesus journeyeth into Gallilee [i.e., Galilee]"
+2019705781,0.146856427192688,9.547537620669829,184.0,"John 2:1-11. Where He is present at a marriage feast in Cana, and performeth His first miracle"
+2019705782,0.13980868458747864,12.84717680911913,188.0,John 2:13-17. Jesus goes up to Jerusalem and cleanseth the temple from defilement
+2019705783,0.14287462830543518,9.843708331341894,172.0,"John 3:1-5. Nicodemus, a ruler of the Jews, cometh to Jesus by night to be further informed concerning His doctrine"
+2019705784,0.12912176549434662,8.966653966218514,177.0,John 5:2-9. Jesus findeth an infirm man at the pool of Bethesda waiting to be healed by the troubling of the water; He biddeth him rise and walk
+2019705785,0.16859731078147888,9.73287884927065,204.0,"Mark 5:22-34. On the way to the house of Jairus, whose little daughter lieth sick, He healeth a woman in the crowd, and commendeth her faith"
+2019705786,0.1500004529953003,9.797060299198437,184.0,"Luke 7:36-50. At the house of Simon the Pharisee, He rejecteth not the love and service of a sinful woman, but rather forgiveth her"
+2019705787,0.15218979120254517,13.368706586303018,198.0,"Matt. 16:13-20. When Jesus came into the coasts of Caesarea Philippi, He asked His disciples, saying, Whom do men say that I the Son of Man am?"
+2019705788,0.1276720017194748,12.575159009073639,212.0,"Mark 1:21,22;32-34. The Sabbath being ended, the people of Capernaum bring unto Him many afflicted with divers diseases, and He healeth them"
+2019705789,0.14190956950187683,11.557766763308383,211.0,"Mark 4:1-9. Because of the pressure of the multitude, Jesus seateth himself in Peter's fishing boat, and teacheth the people many things by parables"
+2019705790,0.15162397921085358,11.95979489949692,206.0,"Luke 5:4-7. The preaching ended, Jesus commendeth Simon Peter to let down his net in deep water, which being done, a great multitude of fishes is enclosed"
+2019705791,0.16901828348636627,11.418039887314585,201.0,"Mark 6:31-44. Jesus seeing the multitude, is moved with compassion and miraculously feedeth them"
+2019705792,0.13101626932621002,9.403303682091483,207.0,"Mark 6:45-52. Jesus walking upon the sea, overtaketh his disciples"
+2019705793,0.13477830588817596,13.975165762477777,196.0,"Luke 8:22-25. Crossing the Sea of Galilee with His disciples, Jesus stilleth a tempest which had arisen"
+2019705794,0.12205731123685837,9.89452537648817,204.0,"Luke 17:11-19. Jesus, having cleansed ten lepers, is grieved that but one returneth to give thanks, and he a stranger"
+2019705795,0.143352210521698,11.060247835225958,211.0,Mark 10:13-16. He blesseth little children and chideth those who would keep them from Him
+2019705796,0.1631052941083908,10.156850097802877,216.0,"Luke 19:47, 48;20:1-8. Jesus thereafter teacheth daily in the temple, the priests demand of Him by what authority He doeth these things"
+2019705797,0.10245440900325775,10.254846974695715,195.0100000000093,"Luke 21:37. And in the day time He was teaching in the temple; and at night He went out, and abode in the mount that is called the Mount of Olives"
+2019705798,0.15977998077869415,10.490425534481917,200.0,"John 13:1-10. Jesus, with the twelve, partaketh of the passover feast in an upper chamber. He teacheth humility by washing the disciples' feet"
+2019705799,0.14416098594665527,11.498417569925765,180.0,"Matt. 26:36-46. Jesus then proceedeth to Gethsemane with His disciples, where, going apart from them, He prayeth in agony of spirit"
+2019705800,0.12551969289779663,10.67947000575494,199.0,"Matt. 24:57-66. Jesus brought before Caiaphas and the council, is accused of blasphemy and condemned"
+2019705801,0.15081864595413208,9.009134585893849,210.0,"Matt. 26:69-74, Luke 22:61, 62. Peter, having before cock crow three times denied his Master, repents as Jesus turns and looks on him"
+2019705802,0.14624902606010437,8.233715431267381,190.0,"John 18:28, 29, Luke 23:2. Early in the morning Jesus is brought to Pilate, the governor, and vehemently accused before him"
+2019705803,0.14630809426307678,7.518353636615793,204.0,"Matt. 27:27-30. Jesus, arrayed in mock state, is brutally entreated by the Roman soldiers"
+2019705804,0.1480674147605896,9.997146526798835,208.0,Luke 23:26-31. Jesus falls under the weight of the cross
+2019705805,0.10315019637346268,9.202840502436072,203.0,"Luke 23:44-48. Jesus yieldeth up the ghost, and the multitude return to their homes in fear of what they have seen"
+2019705806,0.12654563784599304,11.048756847639844,205.0,John 20:3-10. Peter and John hasten to the sepulchre; they see and believe
+2019705807,0.11860555410385132,8.369558103183165,196.0,"Luke 24:13-27. Jesus draweth nigh to two disciples journeying to Emmaus, and proveth to them from the Scriptures that He is the Christ"
+2019705808,0.11485850811004639,11.301921498677315,214.0,John 21:1-14. Once more Jesus showeth himself to Peter and others by the Sea of Galilee
+2019705809,0.13889437913894653,10.782000844330982,208.0,"Matt. 18:20. ""For where two or three are gathered together in my name, there am I in the midst of them."" Matt. 28:20, ""And lo, I am with you alway[s] even unto the end of the world"""
+2019705810,0.1869848221540451,6.100544492403184,177.0,Petra. Relief of earred animal
+2019705811,0.14043013751506805,9.444311416986377,207.0,Petra
+2019705812,0.14436817169189453,3.5697999136278518,205.0,Petra. Roman eagle in Petra Museum
+2019705813,0.19409702718257904,7.948705995207161,234.0,Petra. Roman road
+2019705814,0.14016829431056976,8.807886615796408,204.0,Petra. Homes painted in attempt to match rock
+2019705815,0.1654338836669922,7.620216505629228,210.0,Petra. Palace with lion-carved entrance
+2019705816,0.18012407422065735,11.201234924914942,201.0,Petra. Street upon street
+2019705817,0.23016858100891113,8.209163665883422,198.0,Petra
+2019705818,0.1515563577413559,6.718359679801708,226.0,Petra. Horse rider entering Siq
+2019705819,0.20901042222976685,7.357965977586349,215.0,Petra
+2019705820,0.17576031386852264,10.331285438303254,197.0,Petra
+2019705821,0.15561237931251526,12.187879165619083,225.0,Petra. Nabatean dam
+2019705822,0.16321207582950592,12.958250105457534,225.0,"Temple area, Mosque of Omar [i.e., Dome of the Rock], etc. Rock Moriah, from the south"
+2019705823,0.20937800407409668,9.535785244549258,212.0,"Mount of Olives, Bethany, etc. Mount of Olives from the city wall"
+2019705824,0.21483048796653748,7.804974983990317,220.0,"Mount of Olives, Bethany, etc. Bethany from the carriage road"
+2019705825,0.1944369673728943,6.382590034549021,226.0,Bethlehem and surroundings. Interior of Church of the Nativity
+2019705826,0.14782622456550598,14.187648490796308,224.0,"Road to Hebron, Mar Saba, etc. Tomb of Abraham"
+2019705828,0.17903944849967957,6.742369335929611,225.0,Hebron and surroundings. Machpelah. Tombs of Jacob & Leah. Domes over cenotaphs
+2019705829,0.18471097946166992,12.502736051059124,213.0,Cedar grove. Cedars of Lebanon. Two of the tall giants
+2019705830,0.17894726991653442,13.048003355249485,210.0,Jerusalem from the air. (The Old City). The Jaffa Gate and Citadel. Looking E. along David Street
+2019705831,0.19947324693202972,9.51406742234534,201.0,Cairo and the pyramids. Pyramids and the Sphinx. Taken from the S.E.
+2019705832,0.1635361909866333,6.577769084021197,204.0,Petra (Wadi Musa). Petra Mountains. From the Eldji road. Soft effect of afternoon lighting
+2019705833,0.13129086792469025,17.85863870496784,215.0,"Garden of Gethsemane, inside enclosure"
+2019705834,0.1364627182483673,6.769643599185422,213.0,"Morning repast. ""Loaves and Fishes"""
+2019705835,0.15959306061267853,8.081005286763109,207.0,Bethlehem and surroundings. British guard of the church
+2019705836,0.12925176322460175,9.732214392473576,178.0,Northern views. Capernaum from the north. Remarkable remains of the synagogue at Capernaum
+2019705837,0.20273065567016602,7.650033177947371,217.0,"Choice set of thirteen slides, illustrating the Sea of Galilee and its fishermen still ""toiling with their nets."" Sea of Galilee and Mt. Hermon, Mt. of Transfiguration"
+2019705838,0.19550368189811707,4.866635301014871,206.0,"Choice set of thirteen slides, illustrating the Sea of Galilee and its fishermen still ""toiling with their nets."" ""Great storm"" on the lake"
+2019705839,0.199153870344162,9.421748927999102,182.0,"Good Friday procession at 1st St. [i.e., Station] of the Cross"
+2019705840,0.19179777801036835,6.039179514527408,213.0,"Dead Sea. Man with book and sunshade floating to show bouyancy [i.e., buoyancy]"
+2019705841,0.1595008671283722,9.130229437954199,215.0,"Via Dolorosa, beginning at St. Stephen's Gate. The Tomb, Fourteenth Station of the Cross"
+2019705842,0.14150097966194153,10.197397832303205,219.0,"Mashuta (Pithom), Egypt"
+2019705843,0.18860776722431183,6.604892451658421,196.0,"Rhodes, Temple of Athena"
+2019705844,0.20102879405021667,6.552887541002478,224.0,"Rhodes, Temple of Athena"
+2019705845,0.22411705553531647,9.499386557866082,192.0,"Rhodes, Temple of Athena"
+2019705846,0.1794649362564087,5.697756068050979,178.0,Ephesus
+2019705847,0.17079754173755646,9.180557346304978,187.0,Baalbek. Temple of Bachus
+2019705848,0.17871955037117004,5.544913572587708,155.0,"Knossos, Crete"
+2019705849,0.15708646178245544,5.862876493735957,170.0,"Knossos, Crete"
+2019705850,0.19890692830085754,10.377030242888766,151.0,Mykonos
+2019705851,0.2014218121767044,10.069691124495552,205.0,"Ruins on Crete, Knossos. Center of Minoan civilization. Castle with flush toilets, sewage system, water piped in from 7 miles away"
+2019705852,0.1643795669078827,5.218866498124348,178.0,Haifa fr[om] Carmel
+2019705853,0.11935363709926605,5.042981495674083,122.0,Haifa fr[om] Carmel. Golden dome of Bahai movement. Tomb of Abbas Eff
+2019705854,0.17735505104064941,4.761877856756791,173.0,River Jordan
+2019705855,0.138445645570755,20.73430910192475,182.0,Close up of Dome of the Rock
+2019705856,0.1620180904865265,10.809462205296095,202.0,[Athens. Odeon of Herodes Atticus]
+2019705859,0.14428167045116425,8.15928513158898,215.0,"Herod's family tomb in Nikoforieh, Jerusalem. Tomb of Mariamne"
+2019705860,0.16693970561027527,17.6921689944237,217.0,Jerusalem. In Garden of Gethsemane. Trees & colorful flowers
+2019705861,0.15152616798877716,8.192348535735498,242.0,"Bethphage, convent, with Mts. of Moab in distance"
+2019705862,0.17356202006340027,5.840298831628047,206.0,Church of Lazarus in Bethany
+2019705863,0.17533908784389496,13.311152640407952,205.0,Ruins of House of Simon the Leper in Bethany
+2019705864,0.09636466205120087,7.143777348859345,184.0,Jerusalem. The Damascus Gate
+2019705865,0.1963329315185547,9.390985926194611,201.0,"Jerusalem. French Hospital on Mt. Scopus, close view"
+2019705866,0.14899346232414246,8.086226710278785,214.0,Jerusalem. Embassador [Ambassador] Hotel on Mt. Scopus
+2019705867,0.16193687915802002,8.055380403982877,213.0,Jerusalem. Embassador [Ambassador] Hotel on Mt. Scopus
+2019705868,0.21119040250778198,5.224976601201922,220.0,Jerusalem. Law courts
+2019705870,0.15808197855949402,11.120287952049038,237.0,Hill of Evil Counsel [Jerusalem]
+2019705872,0.18271519243717194,9.35321858277864,222.0,"Jerusalem from Olivet, panorama, II"
+2019705873,0.15060532093048096,8.834155639519675,231.0,Bethany & new church
+2019705875,0.1716139167547226,9.273016022609253,209.0,Jerusalem fr[om] Bethany Road
+2019705876,0.21948596835136414,7.407489861686526,206.0,Newer Jerusalem and suburbs. Jaffa Road. Apartment houses built by Arabs

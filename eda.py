@@ -15,6 +15,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import numpy as np
 from PIL import Image
+from skimage import color as skcolor
 
 IMG_DIR = "data/matson"
 FIG_DIR = "figures"
@@ -55,6 +56,8 @@ def scan():
         iid = fn[:-4]
         m = meta.get(iid, {})
         grey = np.asarray(Image.fromarray(arr).convert("L"))
+        lab = skcolor.rgb2lab(arr.astype(np.float32) / 255.0)
+        tone = float(np.sqrt(lab[:, :, 1] ** 2 + lab[:, :, 2] ** 2).mean())
         rows.append({
             "id": iid,
             "w": arr.shape[1],
@@ -65,6 +68,7 @@ def scan():
             "p01": float(np.percentile(grey, 1)),
             "p99": float(np.percentile(grey, 99)),
             "colour": "autochrome" in m.get("medium", "").lower(),
+            "tone": tone,
             "autochrome": "autochrome" in m.get("medium", "").lower(),
             "date": m.get("sort_date", ""),
             "location": m.get("location", ""),
@@ -155,6 +159,10 @@ def report(rows):
     print(f"\ncolour images {col} ({col/n*100:.1f}%)")
     print(f"autochromes per metadata {auto}")
     print(f"greyscale (colorization targets) {n-col}")
+
+    tones = [r["tone"] for r in rows if not r["colour"]]
+    print(f"\nsepia strength (mean LAB chroma, greyscale scans only)")
+    print(f"  median {statistics.median(tones):.1f}  range {min(tones):.1f}-{max(tones):.1f}")
 
     dyn = [r["p99"] - r["p01"] for r in rows]
     faded = sum(1 for d in dyn if d < 180)
