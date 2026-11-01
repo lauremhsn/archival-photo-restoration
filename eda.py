@@ -67,7 +67,8 @@ def scan():
             "std": float(grey.std()),
             "p01": float(np.percentile(grey, 1)),
             "p99": float(np.percentile(grey, 99)),
-            "colour": "autochrome" in m.get("medium", "").lower(),
+            "colour": ("color" in m.get("medium", "").lower()
+                       and "hand-color" not in m.get("medium", "").lower()),
             "tone": tone,
             "autochrome": "autochrome" in m.get("medium", "").lower(),
             "date": m.get("sort_date", ""),

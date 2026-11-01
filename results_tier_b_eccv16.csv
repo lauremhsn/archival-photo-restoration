@@ -1,255 +1,438 @@
 id,colourfulness,sharpness,dynamic_range,title
-2019701940,0.09089317172765732,4.413728340434903,246.0,"El Khazne, Petra"
-2019701952,0.13112717866897583,6.964878327645145,170.0,Palestine. Transjordania. Petra
-2019701953,0.12815141677856445,8.446535822506647,178.0,Palestine. Transjordania. Petra
-2019701959,0.10994789004325867,9.968748558519351,171.0,Distant view. Navisha Lake
-2019701966,0.2431354820728302,6.83099801452911,238.0,[Rocks in Petra?]
-2019701969,0.1640160232782364,9.481107601217145,242.0,"Ch. [i.e., Church] of Gethsemane"
-2019701974,0.13267533481121063,5.214615228496582,137.0,Arusha wedding dancers. Tanganyika
-2019701975,0.14335429668426514,6.658896899754128,245.0,Roman antique glass
-2019701976,0.15599648654460907,7.109640889264626,241.0,Roman antique glass
-2019701980,0.07059810310602188,8.51509157343662,160.0,Garden
-2019705367,0.15259039402008057,10.413509120192176,199.0,Jaffa to Jerusalem. Jaffa from the sea
-2019705368,0.18065248429775238,6.707042374370514,211.0,"Jaffa to Jerusalem. Jaffa, view from House of Simon the Tanner"
-2019705369,0.1979283094406128,6.750729346946956,216.0,"Jaffa to Jerusalem. Jaffa, sunset from the House of Simon the Tanner"
-2019705370,0.16232652962207794,9.559190741926088,195.0,Jaffa to Jerusalem. Lydda. Acts 9:32-38
-2019705371,0.12963682413101196,10.652154648487071,219.0,"Jaffa to Jerusalem. Ramleh, Aramathea. Matt. 27:57"
-2019705372,0.1305084228515625,10.82564588100082,216.0,"Jaffa to Jerusalem. Tower of the 40 Martyrs, Ramleh"
-2019705373,0.1500031054019928,9.552110952959822,217.0,Jaffa to Jerusalem. Plain of Sharon from the Tower of Ramleh
-2019705374,0.15288284420967102,9.313455865562045,201.0,Jaffa to Jerusalem. Antipatris. Old caravansaray from the days of St. Paul. Acts 23:11
-2019705375,0.17190062999725342,5.241024869209479,225.0,Jaffa to Jerusalem. Beth Shemesh from Beit Jamal
-2019705376,0.15638218820095062,6.729606917776337,199.0,Jaffa to Jerusalem. Beth Shemesh. Excavations of North Wall. I Sam. 6:9
-2019705377,0.22913891077041626,11.52024512690989,220.0,Jaffa to Jerusalem. Gezer. Josh 10:33. I Kings 9:15
-2019705378,0.1532047986984253,7.391447304630427,213.0,Jaffa to Jerusalem. Zorah. Home of Samson. Judges 13.2
-2019705379,0.231425479054451,12.1481339014774,229.0,Jaffa to Jerusalem. Samson's cave
-2019705380,0.14250637590885162,10.642324703567118,215.0,Jaffa to Jerusalem. Valley of Ajalon. Joshua 10:12-15
-2019705381,0.2032882273197174,9.65089975408577,216.0,Jaffa to Jerusalem. Ascent to Beth Horon
-2019705382,0.12952986359596252,10.395268382700827,212.0,Jaffa to Jerusalem. Upper Beth Horon
-2019705383,0.22477051615715027,10.631849806322194,212.0,Jaffa to Jerusalem. Upper Beth Horon village. Joshua 16:5
-2019705384,0.16186675429344177,11.021825866085587,218.0,Jaffa to Jerusalem. Lower Beth Horon. Joshua 16:3
-2019705385,0.22885465621948242,6.975858612285395,204.0,Jaffa to Jerusalem. Kirjath Jearim. Abu Ghosh. I Sam. 7:1-2
-2019705573,0.24201709032058716,17.287399831270484,232.0,Northward from Jerusalem. Nob. Home of the Priests. I Sam. 21:1
-2019705574,0.1870463788509369,10.224422857326346,217.0,Northward from Jerusalem. Rama of Benjamin
-2019705575,0.1365141123533249,11.972161984680735,230.0,"Northward from Jerusalem. Tel el-Nasbeh excavations, city gate"
-2019705576,0.2064075767993927,12.492472783793227,225.0,"Northward from Jerusalem. Beeroth, ""A day's journey."" Luke 2:44-49, Josh. 9:17"
-2019705577,0.1618165671825409,11.15024410559251,228.0,Northward from Jerusalem. Ramallah
-2019705578,0.1378116011619568,12.04084344905083,227.0,"Northward from Jerusalem. Hill of Tibna, Timnath. Gen. 38:12-14, Josh. 15:57"
-2019705579,0.15713627636432648,9.369755338716123,226.0,Northward from Jerusalem. Hill country of Ephraim. Judges 4:5
-2019705580,0.22367577254772186,13.703594619252362,223.0,"Northward from Jerusalem. Taiybeh village, Ephraim. John 11:54"
-2019705582,0.24585193395614624,10.762543096947132,225.0,Northward from Jerusalem. Plain of the Maidens. Judges 21:19-21
-2019705583,0.17058612406253815,11.404605925718629,226.0,Northward from Jerusalem. Ruins at Jacob's Well
-2019705584,0.1699923872947693,12.900212600830596,227.0,Northward from Jerusalem. Joseph's Tomb. Josh 24:32
-2019705585,0.17441892623901367,13.301512568325856,235.0,Northward from Jerusalem. Sychar and Mt. Gerizim. John 4:5-42
-2019705586,0.18424971401691437,7.9594226260867895,215.0,Northward from Jerusalem. Samaritan Passover pilgrimage on Mt. Gerizim
-2019705587,0.13867495954036713,12.553731596291975,223.0,Northward from Jerusalem. Nablus (Schechem)
-2019705589,0.17354582250118256,10.458052712340969,223.0,Northward from Jerusalem. Ruins of Samaria
-2019705590,0.16168519854545593,8.29386166461226,228.0,Northward from Jerusalem. Samaria. Remains of the grand colonnade
-2019705591,0.14706552028656006,10.36623341186795,221.0,"Northward from Jerusalem. Samaria. Crusader Church of St. John (now a Moslem [i.e., Muslim] mosque). Acts 8:5"
-2019705592,0.19586776196956635,5.77736350199932,206.0,"Northward from Jerusalem. Jenin, the mosque. (Traditional. Healing of the Ten Lepers). Luke 17:12-19"
-2019705593,0.2263864129781723,6.411054617559925,213.0,"Northward from Jerusalem. Dothan, the Tel (Mound). Gen. 37:17"
-2019705594,0.2227032482624054,12.26157203826617,230.0,Northward from Jerusalem. Dothan. Joseph's well. Gen. 37:25
-2019705595,0.21175238490104675,14.888693449490892,233.0,Northward from Jerusalem. Tower of Jezreel in Jezreel. II Kings 9:17
-2019705596,0.20275595784187317,8.625401065621595,225.0,"Northward from Jerusalem. Ahab's Well, Jezreel"
-2019705597,0.16776758432388306,9.453947897125644,209.0,"Northward from Jerusalem. Hill of Moreh or Mt. Gilboa (Little Hermon) and Plain of Esdraelon. II Sam. 1:6, I Chron. 10:1"
-2019705598,0.15874435007572174,12.110875004484587,217.0,Northward from Jerusalem. Gideon's Spring at the foot of Mt. Gilboa. Judges 7:1
-2019705599,0.19939294457435608,11.273885073657596,224.0,Northward from Jerusalem. Bethshean and Mts. of Gilboa. I Sam. 31:10
-2019705600,0.1536635309457779,12.513566973574255,224.0,Northward from Jerusalem. Shunem village. II Kings 4:8
-2019705601,0.20770885050296783,14.154642562880388,223.0,Northward from Jerusalem. Endor village. I Sam. 28:7
-2019705602,0.24819311499595642,7.053560524896695,229.0,"Northward from Jerusalem. Megiddo, Tel el-Mutesellim. II Kings 23:29"
-2019705603,0.1585065722465515,10.792684400104593,224.0,"Northward from Jerusalem. Mt. Tabor, showing zigzag ascent, air. Judges 4:14, Matt. 17:1"
-2019705604,0.1675085872411728,6.849020993156876,201.0,"Northward from Jerusalem. Hills of Nazareth, showing Hill of Precipitation, from Esdraelon"
-2019705605,0.14109620451927185,10.243286504126914,221.0,Northward from Jerusalem. Nazareth and Hill of Precipitation. Luke 4:28-30
-2019705606,0.16262264549732208,8.814373595922739,217.0,"Northward from Jerusalem. Nazareth, Church of the Annunciation. Luke 1:30, 31"
-2019705607,0.17155075073242188,5.844882022585959,219.0,"Northward from Jerusalem. Nazareth, Chapel of the Carpenter Shop. Matt. 13:55, Mark 6:3"
-2019705608,0.16421209275722504,7.588228692522941,226.0,"Northward from Jerusalem. Nazareth, the Virgin's Fount"
-2019705609,0.14214980602264404,6.3706656559721555,212.0,"Northward from Jerusalem. Nazareth, chapel on the site of the ancient synagogue. Luke 4:16"
-2019705610,0.13958024978637695,10.332915506791219,214.0,"Northward from Jerusalem. Cana of Galilee, the spring. John 2:1"
-2019705611,0.17765085399150848,10.796803169043383,219.0,Around the Sea of Galilee. Tiberias from the west
-2019705612,0.18058128654956818,7.053421050538825,220.0,Around the Sea of Galilee. Tiberias (showing mosque)
-2019705613,0.11170625686645508,8.28927969342481,218.0,Around the Sea of Galilee. Tiberias from the sea
-2019705615,0.17872841656208038,10.761198153902491,223.0,Around the Sea of Galilee. Magdala. Matt. 15:39
-2019705616,0.21094399690628052,5.027310849174388,215.0,Around the Sea of Galilee. Sunrise on Sea of Galilee
-2019705617,0.15308013558387756,6.4794514362994455,209.0,"Around the Sea of Galilee. Evening scene, Bethsaida ""Home of the Fishermen"""
-2019705618,0.1496003270149231,11.887841506967284,215.0,"Around the Sea of Galilee. Tabgha, Bethsaida. John 1:44"
-2019705619,0.19620206952095032,6.7038781722239955,211.0,Around the Sea of Galilee. Fishermen on the Sea of Galilee
-2019705620,0.11818290501832962,3.152851112631698,193.0,Around the Sea of Galilee. Control boat at loop of drag-net. Bethsaida
-2019705621,0.172145813703537,8.057745588255397,198.0,Around the Sea of Galilee. Plain of Gennesareth and the Lake. Luke 5:1
-2019705622,0.09517193585634232,6.227716172046067,168.0,"Around the Sea of Galilee.Capernaum, landing place. John 6:17"
-2019705623,0.2017088383436203,9.517330832328794,211.0,"Around the Sea of Galilee. Capernaum, partially restored synagogue. Luke 7:5"
-2019705624,0.16765019297599792,10.493614818560834,213.0,"Around the Sea of Galilee. Capernaum, ruins, eastern stairway"
-2019705625,0.23051367700099945,7.056071156676282,198.0,"Around the Sea of Galilee. Safed. ""A city that is set on a hill cannot be hid"" (Matt. 5:14)"
-2019705626,0.16192974150180817,10.656379296509344,218.0,Around the Sea of Galilee. Country of the Gadarenes
-2019705627,0.16274623572826385,7.97145331753837,211.0,Around the Sea of Galilee. Hill of Gamala
-2019705628,0.24239757657051086,7.952502003213614,206.0,"Around the Sea of Galilee. Ain Geb, near ancient Gadara"
-2019705629,0.19987666606903076,10.368976580807447,216.0,Around the Sea of Galilee. Ruins of Kadesh Naphtali. Judges 4:6
-2019705630,0.20359723269939423,11.646894472467148,206.0,"Around the Sea of Galilee. Tel el-Kadeh, Hazor. Josh. 11:10, 13"
-2019705631,0.25140488147735596,6.6959473704387245,212.0,"Damascus, Palmyra and Baalbek. Mt. Hermon from the East. Luke 9:28"
-2019705632,0.20106558501720428,19.047846410182405,215.0,"Damascus, Palmyra and Baalbek. Dan, Tel el-Kadi, a source of the Jordan"
-2019705633,0.2323647439479828,13.504062477825206,202.0,"Damascus, Palmyra and Baalbek. Looking south from Dan"
-2019705634,0.21715842187404633,13.988755460334268,216.0,"Damascus, Palmyra and Baalbek. Banias, Caesarea Philippi. Matt. 16:13"
-2019705635,0.21749261021614075,15.69582541768493,216.0,"Damascus, Palmyra and Baalbek. Banias, the Roman bridge"
-2019705636,0.21403086185455322,12.488907897132846,221.0,"Damascus, Palmyra and Baalbek. Damascus from Bab Sherki"
-2019705637,0.17664170265197754,12.561407555923155,237.0,"Damascus, Palmyra and Baalbek. Damascus, showing covered part of Straight Street. Acts 9:11"
-2019705638,0.11125747114419937,9.988137959935175,216.0,"Damascus, Palmyra and Baalbek. Damascus, River Abana. II Kings 5:12"
-2019705639,0.1299130916595459,9.533901162175741,221.0,"Damascus, Palmyra and Baalbek. Damascus, House of Ananias. Acts 9:10"
-2019705640,0.18092523515224457,11.450717641467998,226.0,"Damascus, Palmyra and Baalbek. Damascus, House of Naaman. II Kings 5:"
-2019705641,0.201237753033638,13.389377812106067,230.0,"Damascus, Palmyra and Baalbek. Damascus, St. Paul's Wall. Acts 9:25"
-2019705642,0.2090306580066681,8.780023708674303,225.0,"Damascus, Palmyra and Baalbek. Damascus, St. Paul's Wall, restored"
-2019705643,0.14315536618232727,8.696091393289622,222.0,"Damascus, Palmyra and Baalbek. Damascus, Bab Sherki, gateway to Straight Street. Acts 9:24"
-2019705644,0.14534860849380493,9.758116154046949,225.0,"Damascus, Palmyra and Baalbek. An old bridge on the River Oeontes, [i.e., Orontes] near Riblah. II Kings 23:33"
-2019705645,0.2346685826778412,6.049045174209927,195.0,"Damascus, Palmyra and Baalbek. Palmyra, Temple of Baal"
-2019705646,0.15659786760807037,9.114259610884945,202.0,"Damascus, Palmyra and Baalbek. Baalbek, the grand quarry"
-2019705647,0.20419257879257202,9.11598722122894,205.0,"Damascus, Palmyra and Baalbek. Baalbek, Temple of the Sun"
-2019705648,0.12227912247180939,12.974734261874595,217.0,"Along the Mediterranean coast, southward. Antioch, where followers of Christ were first called Christians. Acts 11:26"
-2019705649,0.157435804605484,5.518871308989242,217.0,"Along the Mediterranean coast, southward. Antioch, St. Peter's shrine in cave. Gal. 2:11"
-2019705650,0.19687649607658386,6.438753290946157,216.0,"Along the Mediterranean coast, southward. Beirut, pigeon rocks"
-2019705651,0.17550203204154968,9.170623047054168,219.0,"Along the Mediterranean coast, southward. Beirut, American University College Hall and the chapel"
-2019705652,0.15617455542087555,7.803027984810945,221.0,"Along the Mediterranean coast, southward. Beirut, College Hall"
-2019705653,0.08139864355325699,3.250645647544103,221.0,"Along the Mediterranean coast, southward. Beirut, sunset over A.U.B. campus"
-2019705654,0.14495953917503357,8.320134636132117,230.0,"Along the Mediterranean coast, southward. Tyre, harbor. Acts 21:3"
-2019705655,0.19451089203357697,9.20476082717194,227.0,"Along the Mediterranean coast, southward. Tyre, Hiram's Monument. I Kings 5:1"
-2019705656,0.17111918330192566,7.871260207976813,230.0,"Along the Mediterranean coast, southward. Akka (Acre), Carmel Range, etc. Judges 1:31"
-2019705657,0.19745385646820068,10.713926266388777,204.0,"Along the Mediterranean coast, southward. River Kishon. I Kings 18:40"
-2019705658,0.2084985226392746,8.646825892135082,232.0,"Along the Mediterranean coast, southward. Haifa from Mt. Carmel showing the harbor"
-2019705659,0.2000952512025833,3.785389362828826,213.0,"Along the Mediterranean coast, southward. Haifa at night from Mt. Carmel"
-2019705660,0.07148325443267822,6.211297901136845,216.0,"Along the Mediterranean coast, southward. Mt. Carmel, sunset. I Kings 18:19"
-2019705661,0.10427042841911316,12.51309900789349,236.0,"Along the Mediterranean coast, southward. Elijah's Spring on Mt. Carmel"
-2019705662,0.21551528573036194,11.458526201284439,229.0,"Along the Mediterranean coast, southward. Caesarea, village and bay. Acts 10:1, 23:33"
-2019705663,0.13479560613632202,14.076350691383498,221.0,"Petra, Mt. Hor and Akabah. Petra Mountain Ridge, Mount Seir. Gen. 14:5-6, 32:3"
-2019705664,0.15873469412326813,7.5063181291907135,231.0,"Petra, Mt. Hor and Akabah. El-Khazneh, capitals of the portico"
-2019705665,0.13744567334651947,12.258460528813863,234.0,"Petra, Mt. Hor and Akabah. Petra, highly colored veining in sandstone"
-2019705666,0.18837346136569977,7.10070078170575,218.0,"Petra, Mt. Hor and Akabah. Mt. Hor, Tomb of Aaron. Num. 20:28"
-2019705667,0.11723043024539948,10.04302646136944,214.0,Sinai. Springs of Moses. Exodus 15:23
-2019705668,0.2064787596464157,7.314997450756594,217.0,Sinai. Wilderness of Shur. Exodus 15:22
-2019705669,0.18354736268520355,8.035190243840553,206.0,Sinai. Wilderness of Sin. Exodus 16:1
-2019705670,0.1918003261089325,6.097888724363299,201.0,Sinai. Typical scene in Sinai (Sugar Loaf Hill)
-2019705671,0.19212980568408966,9.858738947135409,206.0,"Sinai. Oasis of Wady Feiran, Elim. Exodus 16:1"
-2019705672,0.16934247314929962,10.632047627438592,222.0,"Sinai. Wady Feiran, luxurious palm grove"
-2019705673,0.14999164640903473,11.881524465589312,212.0,"Sinai. Wady Feiran, el Mahrad, Peran"
-2019705674,0.12462735921144485,13.1457014268035,211.0,"Sinai. Wady Feiran, Bedouin tents"
-2019705675,0.15496693551540375,7.692919025233658,215.0,Sinai. Sinai caravan on the march
-2019705676,0.10669019818305969,11.266162509224108,238.0,Sinai. Palm grove at el Wad
-2019705677,0.26138192415237427,8.521528912609918,208.0,Sinai. Ras Safsaf called Mt. Sinai or Gebel Mousa. Exodus 24:16
-2019705678,0.18463629484176636,11.08942848963273,229.0,"Sinai. Wady Es-Sheikh, (Peran)"
-2019705679,0.17199020087718964,9.887683514822198,228.0,Sinai. Hill of Aaron. Exodus 32:4
-2019705680,0.15442931652069092,4.786481463595872,211.0,Sinai. Hill of Aaron from Jethro's path
-2019705681,0.19700556993484497,10.623165563380448,225.0,Sinai. Monastery of St. Katherine from nearby hillside
-2019705682,0.13866408169269562,11.860519435319246,225.0,"Sinai. Monastery of St. Katherine, close view"
-2019705683,0.14638513326644897,8.240365745542196,221.0,"Sinai. Monastery of St. Katherine, showing adjoining garden"
-2019705684,0.15522637963294983,7.688417144912758,233.0,Sinai. Chapel on the summit of Mt. Sinai
-2019705685,0.16952233016490936,11.142946287656494,224.0,Sinai. Chapel of Elijah on Mt. Sinai
-2019705686,0.21365994215011597,2.2784964780473547,212.0,Sinai. Sunrise from summit of Gebel Mousa
-2019705687,0.19682513177394867,7.461487777010284,226.0,Sinai. South East of Jebel Hellal (possibly Kibroth Hattavah). Num. 1134
-2019705689,0.12800392508506775,8.911366945554185,208.0,"Sinai. Ain Gedeirat, near source of the spring. Num. 20:11"
-2019705690,0.08604638278484344,5.100260219336315,219.0,"Sinai. El-Kossaima, looking east toward Ain Gedeirat"
-2019705691,0.10315302014350891,5.733853808746834,198.0,"Iraq (Babylonia). Euphrates River, air, showing circuitous treeless course"
-2019705692,0.11202486604452133,11.917829260988325,221.0,"Iraq (Babylonia). Tigris River, air, showing palm groves on its banks. Psalm 137"
-2019705693,0.13525710999965668,6.917641361765431,217.0,"Iraq (Babylonia). Baghdad, sunrise seen through palm groves from Y.M.C.A. building"
-2019705694,0.12070181220769882,9.65153055038937,225.0,Iraq (Babylonia). Baghdad from the Haidar Khana Mosque
-2019705695,0.14586499333381653,4.177841975428598,211.0,"Iraq (Babylonia). Euphrates River, fisherman throwing net, sunset scene"
-2019705696,0.2453106939792633,5.071122255250748,200.0,"Iraq (Babylonia). Birs Nimrud, Tower of Babel. Gen. 11:4"
-2019705697,0.20255807042121887,6.352138409596001,223.0,"Iraq (Babylonia). Birs Nimrud, Shrine to Abraham"
-2019705698,0.1622072011232376,9.522537621895784,216.0,"Iraq (Babylonia). Kifl, shrine to Ezekiel"
-2019705699,0.22763851284980774,6.726065478424279,190.0,"Iraq (Babylonia). Nineveh, Tomb of Jonah"
-2019705700,0.1274738907814026,3.931197126569677,216.0,"Iraq (Babylonia). Kirkuk, river of crude oil"
-2019705722,0.11601099371910095,4.506518500584005,213.0,Egypt. Pyramids. Great Pyramid of Cheops vividly reflected in Nile overflow
-2019705723,0.14212672412395477,7.648016340151929,217.0,Egypt. Pyramids. Pyramids and palm grove reflections
-2019705772,0.126398965716362,10.814967792297494,198.0,Luke 1:39-56. Mary goeth into the hill country of Judea and saluteth Elizabeth
-2019705773,0.1401945948600769,10.39687373154719,203.0,Luke 2:40. Mary and child Jesus in Nazareth
-2019705774,0.1486104428768158,11.354098501727526,188.0,"Luke 2:41-50. Jesus goeth up with his parents to the Passover at the age of twelve years; and tarreith behind the temple, seeking instruction from the doctors of the law"
-2019705775,0.1453046202659607,12.27958565363533,193.0,"Luke 2:51, 52. Jesus returneth with his parents to Nazareth where he is subject unto them"
-2019705776,0.1494930237531662,10.810858486189288,210.0,Matt. 4.1. The spirit then driveth Jesus into the wilderness
-2019705777,0.09910706430673599,13.499880603758026,194.0,"Mark 1:13. And He was there in the wilderness forty days, tempted of Satan"
-2019705778,0.13826769590377808,6.670240546602141,193.0,"John 1:35-42. Jesus then returneth to Jordan, where John and Andrew follow Him, the latter bringing also his brother Simon"
-2019705779,0.18100224435329437,12.11694276954027,187.0,"Luke 6:12-23. Jesus goeth up into a mountain apart, wither He is followed by the multitude and His disciples. From these He selecteth twelve to be His disciples"
-2019705780,0.12318621575832367,10.928302064621423,187.0,"John 1:43-45. With these and two other disciples, Philip and Nathaniel, Jesus journeyeth into Gallilee [i.e., Galilee]"
-2019705781,0.14081214368343353,9.547537620669829,184.0,"John 2:1-11. Where He is present at a marriage feast in Cana, and performeth His first miracle"
-2019705782,0.15183857083320618,12.84717680911913,188.0,John 2:13-17. Jesus goes up to Jerusalem and cleanseth the temple from defilement
-2019705783,0.1341821700334549,9.843708331341894,172.0,"John 3:1-5. Nicodemus, a ruler of the Jews, cometh to Jesus by night to be further informed concerning His doctrine"
-2019705784,0.10845623910427094,8.966653966218514,177.0,John 5:2-9. Jesus findeth an infirm man at the pool of Bethesda waiting to be healed by the troubling of the water; He biddeth him rise and walk
-2019705785,0.1621493548154831,9.73287884927065,204.0,"Mark 5:22-34. On the way to the house of Jairus, whose little daughter lieth sick, He healeth a woman in the crowd, and commendeth her faith"
-2019705786,0.13435903191566467,9.797060299198437,184.0,"Luke 7:36-50. At the house of Simon the Pharisee, He rejecteth not the love and service of a sinful woman, but rather forgiveth her"
-2019705787,0.14117081463336945,13.368706586303018,198.0,"Matt. 16:13-20. When Jesus came into the coasts of Caesarea Philippi, He asked His disciples, saying, Whom do men say that I the Son of Man am?"
-2019705788,0.1538521647453308,12.575159009073639,212.0,"Mark 1:21,22;32-34. The Sabbath being ended, the people of Capernaum bring unto Him many afflicted with divers diseases, and He healeth them"
-2019705789,0.15703214704990387,11.557766763308383,211.0,"Mark 4:1-9. Because of the pressure of the multitude, Jesus seateth himself in Peter's fishing boat, and teacheth the people many things by parables"
-2019705790,0.142156720161438,11.95979489949692,206.0,"Luke 5:4-7. The preaching ended, Jesus commendeth Simon Peter to let down his net in deep water, which being done, a great multitude of fishes is enclosed"
-2019705791,0.14008837938308716,11.418039887314585,201.0,"Mark 6:31-44. Jesus seeing the multitude, is moved with compassion and miraculously feedeth them"
-2019705792,0.09420746564865112,9.403303682091483,207.0,"Mark 6:45-52. Jesus walking upon the sea, overtaketh his disciples"
-2019705793,0.11612887680530548,13.975165762477777,196.0,"Luke 8:22-25. Crossing the Sea of Galilee with His disciples, Jesus stilleth a tempest which had arisen"
-2019705794,0.15355587005615234,9.89452537648817,204.0,"Luke 17:11-19. Jesus, having cleansed ten lepers, is grieved that but one returneth to give thanks, and he a stranger"
-2019705795,0.17915694415569305,11.060247835225958,211.0,Mark 10:13-16. He blesseth little children and chideth those who would keep them from Him
-2019705796,0.1487674117088318,10.156850097802877,216.0,"Luke 19:47, 48;20:1-8. Jesus thereafter teacheth daily in the temple, the priests demand of Him by what authority He doeth these things"
-2019705797,0.11318875104188919,10.254846974695715,195.0100000000093,"Luke 21:37. And in the day time He was teaching in the temple; and at night He went out, and abode in the mount that is called the Mount of Olives"
-2019705798,0.1508544683456421,10.490425534481917,200.0,"John 13:1-10. Jesus, with the twelve, partaketh of the passover feast in an upper chamber. He teacheth humility by washing the disciples' feet"
-2019705799,0.10209937393665314,11.498417569925765,180.0,"Matt. 26:36-46. Jesus then proceedeth to Gethsemane with His disciples, where, going apart from them, He prayeth in agony of spirit"
-2019705800,0.14675834774971008,10.67947000575494,199.0,"Matt. 24:57-66. Jesus brought before Caiaphas and the council, is accused of blasphemy and condemned"
-2019705801,0.13995042443275452,9.009134585893849,210.0,"Matt. 26:69-74, Luke 22:61, 62. Peter, having before cock crow three times denied his Master, repents as Jesus turns and looks on him"
-2019705802,0.15016762912273407,8.233715431267381,190.0,"John 18:28, 29, Luke 23:2. Early in the morning Jesus is brought to Pilate, the governor, and vehemently accused before him"
-2019705803,0.13818056881427765,7.518353636615793,204.0,"Matt. 27:27-30. Jesus, arrayed in mock state, is brutally entreated by the Roman soldiers"
-2019705804,0.161579430103302,9.997146526798835,208.0,Luke 23:26-31. Jesus falls under the weight of the cross
-2019705805,0.13914893567562103,9.202840502436072,203.0,"Luke 23:44-48. Jesus yieldeth up the ghost, and the multitude return to their homes in fear of what they have seen"
-2019705806,0.14962252974510193,11.048756847639844,205.0,John 20:3-10. Peter and John hasten to the sepulchre; they see and believe
-2019705807,0.12815076112747192,8.369558103183165,196.0,"Luke 24:13-27. Jesus draweth nigh to two disciples journeying to Emmaus, and proveth to them from the Scriptures that He is the Christ"
-2019705808,0.1297224760055542,11.301921498677315,214.0,John 21:1-14. Once more Jesus showeth himself to Peter and others by the Sea of Galilee
-2019705809,0.13649117946624756,10.782000844330982,208.0,"Matt. 18:20. ""For where two or three are gathered together in my name, there am I in the midst of them."" Matt. 28:20, ""And lo, I am with you alway[s] even unto the end of the world"""
-2019705810,0.166701078414917,6.100544492403184,177.0,Petra. Relief of earred animal
-2019705811,0.11599813401699066,9.444311416986377,207.0,Petra
-2019705812,0.1456068754196167,3.5697999136278518,205.0,Petra. Roman eagle in Petra Museum
-2019705813,0.21703824400901794,7.948705995207161,234.0,Petra. Roman road
-2019705814,0.1461682766675949,8.807886615796408,204.0,Petra. Homes painted in attempt to match rock
-2019705815,0.1395031213760376,7.620216505629228,210.0,Petra. Palace with lion-carved entrance
-2019705816,0.16391533613204956,11.201234924914942,201.0,Petra. Street upon street
-2019705817,0.16042551398277283,8.209163665883422,198.0,Petra
-2019705818,0.2065121978521347,6.718359679801708,226.0,Petra. Horse rider entering Siq
-2019705819,0.1933591514825821,7.357965977586349,215.0,Petra
-2019705820,0.13997265696525574,10.331285438303254,197.0,Petra
-2019705821,0.15710443258285522,12.187879165619083,225.0,Petra. Nabatean dam
-2019705822,0.14030879735946655,12.958250105457534,225.0,"Temple area, Mosque of Omar [i.e., Dome of the Rock], etc. Rock Moriah, from the south"
-2019705823,0.1355188637971878,9.535785244549258,212.0,"Mount of Olives, Bethany, etc. Mount of Olives from the city wall"
-2019705824,0.19477009773254395,7.804974983990317,220.0,"Mount of Olives, Bethany, etc. Bethany from the carriage road"
-2019705825,0.15160569548606873,6.382590034549021,226.0,Bethlehem and surroundings. Interior of Church of the Nativity
-2019705826,0.15007291734218597,14.187648490796308,224.0,"Road to Hebron, Mar Saba, etc. Tomb of Abraham"
-2019705828,0.17629358172416687,6.742369335929611,225.0,Hebron and surroundings. Machpelah. Tombs of Jacob & Leah. Domes over cenotaphs
-2019705829,0.1458233743906021,12.502736051059124,213.0,Cedar grove. Cedars of Lebanon. Two of the tall giants
-2019705830,0.14660681784152985,13.048003355249485,210.0,Jerusalem from the air. (The Old City). The Jaffa Gate and Citadel. Looking E. along David Street
-2019705831,0.23227223753929138,9.51406742234534,201.0,Cairo and the pyramids. Pyramids and the Sphinx. Taken from the S.E.
-2019705832,0.10339614003896713,6.577769084021197,204.0,Petra (Wadi Musa). Petra Mountains. From the Eldji road. Soft effect of afternoon lighting
-2019705833,0.12124864757061005,17.85863870496784,215.0,"Garden of Gethsemane, inside enclosure"
-2019705834,0.12988944351673126,6.769643599185422,213.0,"Morning repast. ""Loaves and Fishes"""
-2019705835,0.14066600799560547,8.081005286763109,207.0,Bethlehem and surroundings. British guard of the church
-2019705836,0.22889278829097748,9.732214392473576,178.0,Northern views. Capernaum from the north. Remarkable remains of the synagogue at Capernaum
-2019705837,0.11548596620559692,7.650033177947371,217.0,"Choice set of thirteen slides, illustrating the Sea of Galilee and its fishermen still ""toiling with their nets."" Sea of Galilee and Mt. Hermon, Mt. of Transfiguration"
-2019705838,0.15352943539619446,4.866635301014871,206.0,"Choice set of thirteen slides, illustrating the Sea of Galilee and its fishermen still ""toiling with their nets."" ""Great storm"" on the lake"
-2019705839,0.1164340078830719,9.421748927999102,182.0,"Good Friday procession at 1st St. [i.e., Station] of the Cross"
-2019705840,0.09663073718547821,6.039179514527408,213.0,"Dead Sea. Man with book and sunshade floating to show bouyancy [i.e., buoyancy]"
-2019705841,0.17424359917640686,9.130229437954199,215.0,"Via Dolorosa, beginning at St. Stephen's Gate. The Tomb, Fourteenth Station of the Cross"
-2019705842,0.14869512617588043,10.197397832303205,219.0,"Mashuta (Pithom), Egypt"
-2019705843,0.1297357678413391,6.604892451658421,196.0,"Rhodes, Temple of Athena"
-2019705844,0.09640492498874664,6.552887541002478,224.0,"Rhodes, Temple of Athena"
-2019705845,0.1815209984779358,9.499386557866082,192.0,"Rhodes, Temple of Athena"
-2019705846,0.09298990666866302,5.697756068050979,178.0,Ephesus
-2019705847,0.17842739820480347,9.180557346304978,187.0,Baalbek. Temple of Bachus
-2019705848,0.14386317133903503,5.544913572587708,155.0,"Knossos, Crete"
-2019705849,0.18034625053405762,5.862876493735957,170.0,"Knossos, Crete"
-2019705850,0.1045907735824585,10.377030242888766,151.0,Mykonos
-2019705851,0.2071051448583603,10.069691124495552,205.0,"Ruins on Crete, Knossos. Center of Minoan civilization. Castle with flush toilets, sewage system, water piped in from 7 miles away"
-2019705852,0.10338421165943146,5.218866498124348,178.0,Haifa fr[om] Carmel
-2019705853,0.0975692942738533,5.042981495674083,122.0,Haifa fr[om] Carmel. Golden dome of Bahai movement. Tomb of Abbas Eff
-2019705854,0.15757687389850616,4.761877856756791,173.0,River Jordan
-2019705855,0.13785633444786072,20.73430910192475,182.0,Close up of Dome of the Rock
-2019705856,0.13653697073459625,10.809462205296095,202.0,[Athens. Odeon of Herodes Atticus]
-2019705859,0.09696819633245468,8.15928513158898,215.0,"Herod's family tomb in Nikoforieh, Jerusalem. Tomb of Mariamne"
-2019705860,0.20181109011173248,17.6921689944237,217.0,Jerusalem. In Garden of Gethsemane. Trees & colorful flowers
-2019705861,0.13544097542762756,8.192348535735498,242.0,"Bethphage, convent, with Mts. of Moab in distance"
-2019705862,0.11836723238229752,5.840298831628047,206.0,Church of Lazarus in Bethany
-2019705863,0.21229739487171173,13.311152640407952,205.0,Ruins of House of Simon the Leper in Bethany
-2019705864,0.06779426336288452,7.143777348859345,184.0,Jerusalem. The Damascus Gate
-2019705865,0.22200624644756317,9.390985926194611,201.0,"Jerusalem. French Hospital on Mt. Scopus, close view"
-2019705866,0.18976029753684998,8.086226710278785,214.0,Jerusalem. Embassador [Ambassador] Hotel on Mt. Scopus
-2019705867,0.20936746895313263,8.055380403982877,213.0,Jerusalem. Embassador [Ambassador] Hotel on Mt. Scopus
-2019705868,0.14494013786315918,5.224976601201922,220.0,Jerusalem. Law courts
-2019705870,0.15593759715557098,11.120287952049038,237.0,Hill of Evil Counsel [Jerusalem]
-2019705872,0.2194601148366928,9.35321858277864,222.0,"Jerusalem from Olivet, panorama, II"
-2019705873,0.11273649334907532,8.834155639519675,231.0,Bethany & new church
-2019705875,0.13588380813598633,9.273016022609253,209.0,Jerusalem fr[om] Bethany Road
-2019705876,0.2424294650554657,7.407489861686526,206.0,Newer Jerusalem and suburbs. Jaffa Road. Apartment houses built by Arabs
+2019691463,0.11300359666347504,24.32707724726143,255.0,Matson family on Auja River
+2019691464,0.18856197595596313,14.759839110018657,252.0,Jaffa (Joppa) and environs. The market place
+2019691588,0.14636997878551483,10.001673441984208,253.0,"Scottish Memorial, Church of St. Andrews. Interior of the church, looking towards the apse (altar)"
+2019691589,0.14515802264213562,10.75507711770237,239.0,"Scottish Memorial, Church of St. Andrews. Interior of the church, looking towards the apse (altar)"
+2019691590,0.1359691023826599,12.318783168930343,247.0,"Scottish Memorial, Church of St. Andrews. Interior of the church, looking towards the apse (altar)"
+2019691591,0.08145051449537277,15.50028185324106,254.0,"Map of Africa showing the ""Great Rift Valley"" cont'in of Jordan Valley"
+2019691592,0.08753585815429688,9.598659432582233,248.0,Jordan floods. (Taken at Allenby Bridge). Floods covering entire area by bridge
+2019691593,0.11227639019489288,17.427473946117782,255.0,"Mosque of el-Aksa [i.e., al-Aqsa]"
+2019691594,0.1801207959651947,18.24613054257146,255.0,The Towers of David & Hippicus
+2019691595,0.14759007096290588,22.926946480751926,255.0,Virgin's Fountain in Nazareth
+2019691596,0.1976986676454544,22.677901162156065,255.0,Jerusalem. Jerusalem from above Gethsemane
+2019691701,0.13177832961082458,9.404425154570207,250.0,Around the Dead Sea. Distant view of Jebel Usdum (mountain of Sodom)
+2019691702,0.14196720719337463,15.244478843268862,241.0,Around the Dead Sea. Way leading up to Masada
+2019691703,0.2055419534444809,19.449316823299323,250.0,Around the Dead Sea. Looking east from 'Ain Jiddy
+2019691704,0.18378013372421265,27.853626998081392,253.0,Around the Dead Sea. 'Ain Jiddy showing rugged pass
+2019691705,0.12795475125312805,16.13506562111072,235.0,Around the Dead Sea. The landing place
+2019691706,0.17425565421581268,13.73030232475504,235.0,"Petra in Transjordan. General view of mts. [i.e., mountains] of Petra"
+2019691707,0.21970289945602417,22.113997357610263,249.0,Petra in Transjordan. Temple of Ed-Deir from the W.
+2019691708,0.1273408979177475,22.101459178914553,241.0,Petra in Transjordan. Temple of el-Khazne
+2019691709,0.1498219221830368,18.951520397859383,244.0,Petra in Transjordan. Mountains of Petra from Elji
+2019691729,0.12238326668739319,20.399689782584133,244.0,Jews wailing place
+2019691730,0.11740314215421677,20.47386989200949,255.0,Various views inside the city. Jews wailing place
+2019691749,0.1382330060005188,9.539013328579104,234.0,Jaffa to Jerusalem. Lydda and the Church of St. George
+2019691750,0.14253321290016174,15.315065701562261,250.0,Jaffa (Joppa) and environs. Tabitha's Well
+2019691751,0.0975334644317627,8.662602604816326,244.0,"Turkish officers of high rank visiting Jerusalem mosque, parade"
+2019691752,0.14772875607013702,14.13068365242065,251.0,Jaffa (Joppa) and environs. View from the roof of Simon the Tanner's house
+2019691765,0.16252195835113525,17.31731268515475,239.0,Damascus Gate and environs. Damascus Gate from the north
+2019691767,0.09854293614625931,10.96617304829597,247.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ finds disciples asleep in Gethsemane"
+2019691780,0.12507568299770355,11.9223601158128,247.0,The Samaritan passover on Mt. Gerizim. High Priest exposing the scroll to the congregation
+2019691815,0.12953180074691772,9.92887555554639,250.0,"Scottish Memorial, Church of St. Andrews. Interior of the church, looking towards the apse (altar)"
+2019691817,0.10288964956998825,15.627551150918213,254.0,Gethsemane in snow. Mar. 6 '43
+2019691829,0.11296365410089493,9.17250673092404,249.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ's garments ""parted by lot"""
+2019691830,0.10327450931072235,5.995320022846556,249.0,"The terrible plague of locusts in Palestine, March-June 1915. Metamorphosis continued"
+2019691831,0.13654115796089172,18.805329453560205,254.0,"The terrible plague of locusts in Palestine, March-June 1915. Portable trap with sack attached"
+2019691832,0.12639659643173218,19.978409669072615,246.0,"The terrible plague of locusts in Palestine, March-June 1915. Portable above-ground trap"
+2019691833,0.2221011370420456,17.870467373688097,236.0,"The terrible plague of locusts in Palestine, March-June 1915. The same tree after the visit of locusts"
+2019691834,0.13614976406097412,28.73085491032019,254.0,"The terrible plague of locusts in Palestine, March-June 1915. Locust foraging"
+2019691835,0.13943424820899963,27.14837429057515,255.0,"The terrible plague of locusts in Palestine, March-June 1915. Locusts in larval stage, crossing a wall (Joel 2:7)"
+2019691836,0.12737971544265747,8.796280183082526,255.0,Dr. Shick's [i.e. Schick's] models. Herod's temple
+2019691837,0.11946109682321548,9.530638563882288,250.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. The first Easter"
+2019691838,0.1396643966436386,14.69539652497418,245.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ preaching to the ""spirits in prison"""
+2019691839,0.1260412037372589,8.40794224966544,245.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ's body laid in the tomb"
+2019691840,0.11044665426015854,10.09093903190658,244.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ's body prepared for burial"
+2019691842,0.13215136528015137,9.568575196891741,250.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ's side pierced"
+2019691843,0.1180005893111229,5.546397418287779,235.0,"The terrible plague of locusts in Palestine, March-June 1915. The antennae disengaged"
+2019691844,0.10272752493619919,9.748379813567166,250.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ comforts the ""daughters of Jerusalem"""
+2019691845,0.1336047500371933,10.912825876650965,249.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ falling under the Cross"
+2019691846,0.11319440603256226,10.6954402134493,241.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Pilate washing his hands"
+2019691847,0.14764267206192017,16.44914577276066,253.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ tried by Pilate"
+2019691848,0.1434985101222992,11.116969073625501,248.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ led to the Praetorium"
+2019691849,0.1129254698753357,9.300214431820194,245.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Peter's denial of Christ"
+2019691850,0.11047041416168213,10.854139173141425,246.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ accused before high priest"
+2019691851,0.10605641454458237,9.031415549305148,238.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ bound at Gethsemane"
+2019691852,0.10185772180557251,9.904147606760974,253.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Judas betrays his master"
+2019691853,0.15051236748695374,9.827768388514043,249.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ ministered to by angel"
+2019691855,0.1369088590145111,9.797722323558936,244.0,"Set of religious paintings of Christ's passion, by Kosheleff, in Russian hospice, Jerusalem. Christ's body taken off the Cross"
+2019691857,0.11350046098232269,11.676159602422999,248.0,The Samaritan passover on Mt. Gerizim. High priest kissing the sacred scroll
+2019691866,0.10233139991760254,4.852631206982364,236.0,"The terrible plague of locusts in Palestine, March-June 1915. Disengaging the antennae"
+2019691873,0.14065387845039368,4.884075788300195,236.0,"The terrible plague of locusts in Palestine, March-June 1915. Later stage in moulting"
+2019691874,0.11386800557374954,5.362665771244303,238.0,"The terrible plague of locusts in Palestine, March-June 1915. Moulting half completed"
+2019691878,0.1506965309381485,21.775290668252183,250.0,Ain Farah Gorge
+2019691988,0.15330490469932556,10.151314812350808,245.0,Jewish brigade recruitment
+2019691989,0.12346414476633072,17.09453094756348,253.0,[Abyssinian nun]
+2019691990,0.11974836140871048,13.274725708460819,248.0,"Russian epiphany ceremony, Jordan River"
+2019691991,0.13232816755771637,19.522806980399224,253.0,"[Foot washing ceremony, possibly with Syrian Orthodox patriarch, outside the Church of the Holy Sepulchre, Jerusalem]"
+2019691992,0.17712470889091492,17.866329827372365,239.0,"[""Ruth"" story. Bedouin tent. General view (a chieftain's tent)]"
+2019691993,0.13660341501235962,14.066274427082382,255.0,[Arab Peasants. Reaping scenes]
+2019691994,0.18340429663658142,15.390009337330492,249.0,[Arab Peasants. Reaping scenes]
+2019691995,0.14505131542682648,14.438841750075694,246.0,Arab Peasants. Reaping scenes. Mt. of Olives in background
+2019691996,0.17283350229263306,9.910788746653873,253.0,Jewish brigade recruitment
+2019691997,0.12699976563453674,7.121055763741169,252.0,Jewish brigade recruitment
+2019691998,0.15562859177589417,9.088727432914112,239.0,Jewish brigade recruitment
+2019691999,0.16117633879184723,9.58880031355001,252.0,Jewish brigade recruitment
+2019692001,0.15666329860687256,10.727279505888058,254.0,Jewish brigade recruitment
+2019692002,0.11709454655647278,12.478293244931622,248.0,Bedouin women working primitive grainmill
+2019692014,0.17533192038536072,9.739920527781203,236.0,Jewish brigade recruitment
+2019692015,0.12816652655601501,20.405054590767115,255.0,[Banias]
+2019692020,0.14268448948860168,15.593322630947508,250.0,"[Dr. C. MacLean, Ajlun. Gilead Mission Hospital. Group. Staff in front of entrance to women's ward]"
+2019692021,0.13049820065498352,13.596882821967682,254.0,"Water wheel, Hama"
+2019692022,0.19247013330459595,16.671063300487827,247.0,[Nebi Musa procession with Rawdat al-Maʻaref boy scouts]
+2019692023,0.10037637501955032,23.907081981132492,255.0,Arab demonstration
+2019692027,0.0968051478266716,14.613577547512541,249.0,Belfort Castle
+2019692028,0.07564994692802429,9.098997670561989,236.0,"Arrival of Turkish plane. Mayor of Jerusalem & Turkish officer. Hussein Selim el-Hussein[i], American Colony in background"
+2019692029,0.15514658391475677,15.410463765362554,242.0,[Ecclesiastical complex]
+2019692030,0.14538460969924927,13.837338482763286,240.0,"Jews' Wailing Wall, general view from south"
+2019692031,0.1940910369157791,27.22894749014077,255.0,[Belfort Castle]
+2019692032,0.12265723198652267,18.915824948379964,255.0,[Sebastiyeh (Samaria). Crusader Church of St. John]
+2019692033,0.13436682522296906,16.831563836587236,243.0,"Banias, Belfort Castle"
+2019692034,0.14738860726356506,19.91782003875236,255.0,[Sebastiyeh (Samaria). Crusader Church of St. John]
+2019692035,0.12190670520067215,27.71060953877845,255.0,[Magdala from the north]
+2019692036,0.11132095754146576,22.727028595413444,248.0,"[Banias (Caesarea Philippi), with niches for statues of deities]"
+2019692037,0.10557258874177933,22.0612891432733,252.0,[Banias springs]
+2019692038,0.15254394710063934,13.61208496994962,249.0,Turkish military WWI. Man dancing with swords at American Colony Store
+2019692039,0.07665207982063293,13.474977304467933,253.0,Turkish military WWI. Man being photographed in a circle of people with Turkish army
+2019692040,0.1650964617729187,15.811227764689722,252.0,"Arab women, agric. [i.e., agriculture]"
+2019692041,0.1820376068353653,19.423010091286105,250.0,"Arab women, agric. [i.e., agriculture]"
+2019692043,0.11639288067817688,17.506363385886164,254.0,Epiphany ceremony. Jordan River. Sanctifying the waters of the Jordan on Epiphany
+2019692045,0.12492067366838455,21.054414494908478,255.0,"Iraq. Babylon, the Istar [i.e., Ishtar] Gate?"
+2019692046,0.1777603030204773,21.219508006641696,251.0,"Iraq. Babylon, basalt lion with figures"
+2019692047,0.13967114686965942,17.360317087950573,251.0,"Iraq. Babylon, basalt lion with figures"
+2019692048,0.13207881152629852,26.162608399063785,255.0,"[Russian Chapel in Alexander Hospice, Jerusalem]"
+2019692058,0.1374182403087616,29.332912832799472,255.0,Iraq. Babylon. The Ishtar Gate
+2019692072,0.18413394689559937,14.742992152890094,253.0,Sixth Station of the Cross
+2019692080,0.13063320517539978,17.0479576074921,255.0,"Iraq. Kerbela [i.e., Karbala]. General view showing mosque"
+2019692082,0.182266965508461,18.549633657447057,255.0,"Tanis, obelisk"
+2019692083,0.2026664763689041,8.174447624071568,250.0,"Mummy, Ramses II"
+2019692084,0.1703324019908905,18.33803042462574,255.0,"Ziggurat of Warka, Mesopotamia"
+2019692085,0.08308051526546478,12.53113135058921,255.0,Iraq. Brick kiln near Kadimain
+2019692086,0.09453287720680237,10.392601877189545,252.0,Lake of Galilee from Ginarar
+2019692087,0.11720161885023117,13.180162199535225,255.0,Iraq. Brick kiln near Kadimain
+2019692088,0.1281948685646057,18.5989744464976,255.0,Eleventh Station of the Cross
+2019692089,0.1720787137746811,11.684796689727158,252.0,"Dome of the Ascension, Jerusalem"
+2019692090,0.14877130091190338,22.192511937282376,255.0,"Monument of Paul in Tarsus. Greek Ortho. [i.e., Orthodox] Church"
+2019692091,0.14088036119937897,15.956656807359607,255.0,"Iraq. Kerbela [i.e., Karbala]. General view showing mosque"
+2019692092,0.12164191901683807,15.222073047175813,255.0,"Iraq. Kerbela [i.e., Karbala]. General view, mosque"
+2019692093,0.17172451317310333,26.08210194323108,255.0,Iraq. Babylon. Basalt lion
+2019692094,0.1425355076789856,17.24440199331239,250.0,Iraq. Babylon. Basalt lion with figures
+2019692095,0.18813836574554443,22.05225163475059,255.0,Iraq. Babylon. Basalt lion with figures
+2019692096,0.12669378519058228,27.91604382466827,255.0,Iraq. Babylon. Basalt lion marking Daniel's den
+2019692097,0.15884512662887573,29.754725162031846,255.0,Iraq. Babylon. Basalt lion marking Daniel's den
+2019692098,0.13305801153182983,32.275156061996995,255.0,Iraq. Babylon. The Ishtar Gate
+2019692100,0.13789726793766022,28.570081020678582,255.0,"Buyukkale House, Turkey"
+2019692101,0.17479054629802704,24.484096324244682,253.0,The Rock Moriah [Dome of the Rock]
+2019692102,0.11230659484863281,9.87356388146873,246.0,"Hebron hospital, operating theatre, toward window upright"
+2019692103,0.12498659640550613,10.615633974919504,245.0,"Hebron hospital, operating theatre, toward window"
+2019692104,0.1443532109260559,10.400782286496161,242.0,"Hebron hospital, women's ward"
+2019692105,0.16091950237751007,10.011744657910176,245.0,"Hebron hospital, women's ward"
+2019692106,0.15935364365577698,10.065260165754642,244.0,"Hebron hospital, men's ward"
+2019692107,0.1423993706703186,18.92209566349026,251.0,Syrian bishop's remains (funeral). Corpse seated in church
+2019692108,0.1053021103143692,19.851964724764496,251.0,"Shrine in German hospice garden, Jerusalem, a similar shrine"
+2019692109,0.1688121259212494,9.108917261304308,241.0,"Hebron hospital, men's ward"
+2019692110,0.22035270929336548,23.85800250274779,255.0,"Hebron hospital, (Dr. Walker) from the west"
+2019692111,0.20987160503864288,23.85077339122505,255.0,"Hebron hospital, (Dr. Walker) from the west"
+2019692112,0.24186208844184875,27.185390115348333,255.0,"Hebron hospital, (Dr. Walker) from S.W."
+2019692113,0.09167978167533875,18.33974557225451,254.0,Hebron blind school commencement exercises
+2019692114,0.13213114440441132,22.112748314123714,249.0,Syrian bishop's remains (funeral). Corpse seated in church
+2019692115,0.16256603598594666,9.130619488047932,239.0,"Hebron hospital, nurse's bedroom"
+2019692116,0.15751780569553375,23.591083879060943,253.0,The Rock Moriah [Dome of the Rock]
+2019692117,0.17200219631195068,17.541727021674493,250.0,The Rock Moriah [Dome of the Rock]
+2019692118,0.1492125540971756,19.678134107135637,252.0,The Rock Moriah [Dome of the Rock]
+2019692119,0.1671358197927475,13.075180733812998,254.0,"Dome of the Rock. Exteriors, closer up with tree, general view"
+2019692120,0.12002049386501312,17.264331100463576,248.0,"Dome of the Rock. Exteriors, closer up with tree, general view"
+2019692121,0.10914222151041031,11.700204825054907,254.0,"Dome of the Rock. Exteriors, closer up, general view"
+2019692122,0.10111048072576523,11.408879633760478,252.0,"Dome of the Rock. Exteriors, closer up, general view"
+2019692123,0.1093653067946434,12.113931409184586,252.0,"Dome of the Rock. Exteriors, general view"
+2019692124,0.1451031118631363,13.108543106817562,254.0,"Dome of the Rock. Exteriors, general view"
+2019692125,0.13034023344516754,15.036033005873572,251.0,Hebron blind school commencement exercises. Group of blind boys singing
+2019692126,0.13862577080726624,15.963866748449048,255.0,"Hebron blind school commencement exercises. Subhi[?] Dajani, the principal addressing guests"
+2019692127,0.13663837313652039,23.236399676497655,253.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. View of hospital site and village of Ajlun from the south"
+2019692128,0.10549701005220413,9.738250338984567,240.0,"Animal hospital stables, Jerusalem, taken for Mr. Reynolds"
+2019692129,0.1411498337984085,19.670811050194388,250.0,"Mr. Oliver's school, Ras-el-Matn. The school belfry"
+2019692131,0.09771522134542465,13.529825412197063,253.0,"Dr. H. Torrance, Tiberias. Lake view, house of Scot's Mission from hospital"
+2019692132,0.15320166945457458,9.45022485551786,254.0,"Dr. H. Torrance, Tiberias. Mr. Radford in doorway of doctor's house"
+2019692133,0.1487000286579132,23.61789578920876,254.0,"Dr. H. Torrance, Tiberias. Mr. Radford in the garden"
+2019692134,0.1419811248779297,26.466530453809266,252.0,"Dr. H. Torrance, Tiberias. Group. Staff at entrance of hospital"
+2019692135,0.11685721576213837,24.982992616645745,244.0,"Dr. H. Torrance, Tiberias. Group. Staff on the steps of the doctor's house"
+2019692136,0.12425129115581512,23.597413775336037,255.0,"Dr. H. Torrance, Tiberias. Group. Staff with doctors house in background"
+2019692137,0.182667538523674,16.890204099776554,242.0,"Dr. H. Torrance, Tiberias. Group. Staff with sea in background"
+2019692138,0.10566218197345734,15.507863406133055,244.0,"Beit Meri & Poroummana [i.e., Brummna] from Ras-el-Matn"
+2019692139,0.1185932382941246,10.02585450464117,241.0,"Ras-el-Matn, village. The village looking west from the school"
+2019692140,0.12732800841331482,19.509827317320635,253.0,"Ras-el-Matn, village. The village looking east from the school"
+2019692141,0.12313869595527649,13.844688205075586,252.0,"Mr. Oliver's school, Ras-el-Matn. Upper colonnade, showing village in distance. Mr. Oliver and his dog"
+2019692142,0.14370346069335938,9.570309780882576,247.0,"Hebron hospital, operating theatre"
+2019692143,0.12053796648979187,16.971584292998127,249.0,"Mr. Oliver's school, Ras-el-Matn. Inner courtyard, Mr. Oliver & his dogs"
+2019692144,0.14284533262252808,11.713282077724966,242.0,"Hebron hospital, salon or sitting room"
+2019692145,0.14994725584983826,20.764924893936445,246.0,"Mr. Oliver's school, Ras-el-Matn. School group on steps, taken from the right"
+2019692146,0.15661156177520752,21.388429742193278,249.0,"Mr. Oliver's school, Ras-el-Matn. School front on steps, taken from the front"
+2019692147,0.14188140630722046,25.311258888951293,255.0,"Mr. Oliver's school, Ras-el-Matn. School group on steps, taken from the left"
+2019692148,0.10988815128803253,27.228715012645004,255.0,"Mr. Oliver's school, Ras-el-Matn. School front with school boys"
+2019692149,0.16793271899223328,12.91402648535136,255.0,"Mr. Oliver's school, Ras-el-Matn. General view of school and surroundings through pillars from village"
+2019692150,0.19984155893325806,19.862608007140846,253.0,"Mr. Oliver's school, Ras-el-Matn. General view of school & surroundings showing street in front & village"
+2019692151,0.20856082439422607,19.86594225641562,255.0,"Mr. Oliver's school, Ras-el-Matn. General view of school & surroundings, forest in foreground"
+2019692152,0.12044498324394226,10.996686040875552,251.0,Dr. McLean (William) & Mr. Datsq at Eng. Hospital
+2019692153,0.12267494201660156,16.81579917400693,249.0,Mr. Allisson's wedding. Wedding group in courtyard
+2019692154,0.12420043349266052,5.287506407281629,254.0,"Hebron hospital, Walker's daughter, Dorothy"
+2019692155,0.15322841703891754,6.158742536590438,248.0,"Hebron hospital, Walker's daughter, Dorothy"
+2019692156,0.1121307983994484,12.38044629123844,254.0,"Demolition at Jaffa Gate to clear city wall, July 1944"
+2019692157,0.12304198741912842,16.853878290881635,242.0,"Mr. Oliver's school, Ras-el-Matn. Inner courtyard, Mr. Oliver & his dogs"
+2019692158,0.12033746391534805,14.239036485319224,255.0,Animal hospital notice copied for Mr. Reynolds
+2019692159,0.20689161121845245,13.928310599890686,254.0,Dome of the Rock from N.W.
+2019692160,0.12512658536434174,15.70806754964853,247.0,"Elisha's fountain, Jericho, taken Apr. 30, '44"
+2019692161,0.2387787103652954,13.271665159725153,254.0,"Damascus Gate & orange piles, general view, distant. Taken May 6, '44"
+2019692162,0.17531248927116394,13.22505506153769,254.0,"Damascus Gate & orange piles, general view, distant. Taken May 6, '44"
+2019692163,0.15324026346206665,21.391967443075355,251.0,"Orange piles at Damascus Gate, May 6, '44"
+2019692164,0.24766263365745544,19.62311531443227,240.0,"Orange piles at Damascus Gate, May 6, '44"
+2019692165,0.2214767336845398,25.624802777464446,244.0,Jerusalem from lower slopes of Olivet
+2019692166,0.16874901950359344,12.824672053030305,255.0,"St. Andrew's house in Tel Aviv, upright"
+2019692167,0.15540927648544312,21.15191139073,255.0,Polish groups (various) at Dom Polski
+2019692168,0.22912241518497467,15.561324551391001,255.0,North city wall (with piles of oranges) [Jerusalem]
+2019692169,0.09033755213022232,14.575588535349231,252.0,"Two plates of narsissus [i.e., narcissus]"
+2019692170,0.108642578125,17.517407263078955,253.0,Hebron blind school commencement exercises
+2019692171,0.2193603217601776,15.50973831481816,254.0,"Dom Polski building, new in Musrara, June 30 '44"
+2019692172,0.1886606216430664,11.255552348408724,255.0,"Dome of the Rock from W., steps, etc."
+2019692173,0.1167316734790802,16.691469812574333,254.0,Bethlehem with Leorie[?] Stephan
+2019692174,0.19526976346969604,5.094683738274111,245.0,Bethlehem with [?] Stephan
+2019692175,0.11454999446868896,12.042266617803886,238.0,"Copy of wood carving, pattern for El Aksa [i.e., al-Aqsa] Mosque"
+2019692176,0.16449564695358276,13.322900596768273,252.0,"Entrance. Mosque El-Aksa [i.e., al-Aqsa], during reparations, Aug. 1943"
+2019692177,0.12949053943157196,10.220098410822501,235.0,"Bed, Ulster children's Church Missionary Society hospital"
+2019692178,0.11846822500228882,14.26048682065034,250.0,Herod's Gate
+2019692179,0.16537100076675415,16.578039799997107,255.0,"Olivet & Jerusalem (Fr[ench] Frere's school) in snow, Mar. '43"
+2019692180,0.16127638518810272,18.47467395100248,251.0,[Arab Peasants. Reaping scenes]
+2019692181,0.24085542559623718,19.194080928637213,254.0,"North city wall above entrance to Solomon's Quarries, Bezetha [Jerusalem]"
+2019692183,0.21861673891544342,12.773219431922035,254.0,"Damascus Gate, close up"
+2019692184,0.13779564201831818,16.502670548602822,255.0,"Damascus Gate, close up"
+2019692185,0.16533558070659637,14.756542526778084,255.0,"Two plates of narsissus [i.e., narcissus]"
+2019692186,0.1873992532491684,15.251092568201802,244.0,"Indian hostel inside Herod's Gate, Jerusalem"
+2019692187,0.13741633296012878,20.03194658456591,254.0,Mt. of Olives & St. Anne's Church from Indian hostel inside Herod's Gate
+2019692188,0.12073178589344025,7.6719182718461125,255.0,"Hebron Hospital. Walker's daughter, Dorothy"
+2019692189,0.13263580203056335,32.487523247118084,255.0,"Shrine in German hospice garden, Jerusalem"
+2019692190,0.07062374800443649,8.087499699978213,240.0,"Beds in C.M.S. [i.e., Church Missionary Society] English hospital, Jerusalem"
+2019692191,0.11060445010662079,8.65182216187201,243.0,"Beds in C.M.S. [i.e., Church Missionary Society] English hospital, Jerusalem"
+2019692192,0.15478923916816711,9.585233000293181,252.0,"Church Missionary Society English hospital, Jerusalem. The chapel"
+2019692193,0.1650703102350235,24.608781139980085,255.0,Bishop and Mrs. Stewart in their garden at St. George's
+2019692194,0.13412372767925262,17.7195601692582,254.0,Bishop and Mrs. Stewart in their garden at St. George's
+2019692195,0.15851758420467377,23.999134591210673,255.0,Bishop and Mrs. Stewart in their garden at St. George's
+2019692196,0.10729413479566574,13.200013393349371,249.0,Bishop and Mrs. Stewart in their garden at St. George's
+2019692197,0.129338338971138,23.55422925409243,255.0,Bishop and Mrs. Stewart in their garden at St. George's
+2019692198,0.1333167999982834,8.116729294647657,249.0,Bishop and Mrs. Stewart in their garden at St. George's
+2019692199,0.1906491070985794,18.276509885011116,254.0,"Dome of the Rock from W., steps, etc."
+2019692200,0.16589567065238953,17.197426688867445,255.0,"Indian hostel courtyard inside Herod's Gate, Jerusalem, showing entrance"
+2019692201,0.18192601203918457,10.923246219452402,251.0,"Dome of the Rock from W., steps, etc."
+2019692202,0.11208920180797577,9.77819186403494,253.0,"Y.M.C.A. celebration at Beit Nabala on May 21, '44. Group of four 'Y' secretaries. Mr. Carter, Mr. Willkins, Mr. Lyne, & Mr. [?]"
+2019692203,0.15202811360359192,6.368852867198017,241.0,"Y.M.C.A. celebration at Beit Nabala on May 21, '44. Opening of 'Y' huts at Beit Nabala. Mr. Lyne speaking"
+2019692204,0.15891674160957336,7.350104642927799,236.0,"Y.M.C.A. celebration at Beit Nabala on May 21, '44. Opening of 'Y' huts at Beit Nabala by Gen. Allan"
+2019692205,0.14428679645061493,15.102774478615169,251.0,Y.M.C.A. celebration at Beit Nabala on May 21 '44. Y.M.C.A. centre at Beit Nabala
+2019692206,0.1723783314228058,13.234306580471308,252.0,"Y.M.C.A. celebration at Beit Nabala on May 21, '44. Military swimming pool opened by Brig. Gen. Allan"
+2019692207,0.18188847601413727,12.676245649685805,254.0,Y.M.C.A. celebration at Beit Nabala on May 21 '44. Military swimming pool opened by Brig. Gen. Allan
+2019692208,0.15739218890666962,10.861978004623833,243.0,"Y.M.C.A. celebration at Beit Nabala on May 21, '44. Military swimming pool opened by Brig. Gen. Allan"
+2019692209,0.16982661187648773,14.679334110148288,255.0,"Y.M.C.A. celebration at Beit Nabala on May 21, '44"
+2019692210,0.17266535758972168,11.538296165402542,254.0,Mosque el-Aksa
+2019692211,0.19497033953666687,11.087244698299848,255.0,"Mosque el-Aksa [i.e., al-Aqsa]"
+2019692212,0.22354073822498322,15.600375414822274,255.0,"Mosque el-Aksa [i.e., al-Aqsa]"
+2019692213,0.14143343269824982,14.429577237258412,246.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. Hospital site and village of Ajlun from the castle, er Rubbid"
+2019692214,0.18494859337806702,18.22532345038643,252.0,"Indian hostel courtyard inside Herod's Gate, Jerusalem, showing entrance"
+2019692215,0.1312161087989807,8.932559859657697,252.0,"Interior of church, chapel of Pater Noster"
+2019692216,0.18505141139030457,23.30782039765917,250.0,"Gethsemane, in the garden"
+2019692217,0.14363235235214233,9.841792088479597,249.0,"Gethsemane. Garden of Gethsemane, Church (exterior) of All Nations"
+2019692218,0.13087040185928345,18.66802922979237,245.0,"Gethsemane. Garden of Gethsemane, Church (exterior) of All Nations"
+2019692219,0.142451673746109,19.105345313568087,248.0,"Gethsemane. Garden of Gethsemane, Church (exterior) of All Nations"
+2019692220,0.11673371493816376,20.775948984227437,255.0,"Gethsemane. Garden of Gethsemane, Church (interior) of Agony; of All Nations"
+2019692221,0.16057607531547546,14.669839774380065,253.0,"Gethsemane. Garden of Gethsemane, Church (interior) of Agony; of All Nations"
+2019692222,0.11748583614826202,28.17963693583965,254.0,"Gethsemane. Garden of Gethsemane, Church (interior) of Agony; of All Nations"
+2019692223,0.14394024014472961,8.96121136559435,254.0,Y.M.C.A. bldg. Night picture illuminated for Christmas
+2019692224,0.15717066824436188,8.468697004220735,252.0,Y.M.C.A. bldg. Night picture illuminated for Christmas
+2019692225,0.07901408523321152,6.274069219019055,242.0,Miss Ridler at her desk. Dec. 1944
+2019692226,0.12503087520599365,7.126869215709669,253.0,Miss Ridler at her desk. Dec. 1944
+2019692227,0.0998532697558403,16.696915698071038,253.0,"Damascus, Palais Azem. The north vestibule, in front of reception room"
+2019692228,0.11826653778553009,6.287484350881736,243.0,Miss Ridler at her desk. Dec. 1944
+2019692229,0.11621090024709702,22.02108661299846,248.0,"Gethsemane, in the garden"
+2019692230,0.10722513496875763,10.28553913810608,251.0,Welsh tablet of Lord's Prayer on Olivet showing Mr. Hughes
+2019692231,0.13900358974933624,19.932462529214707,253.0,Welsh tablet of Lord's Prayer on Olivet
+2019692232,0.09605573117733002,22.448080680270596,254.0,St. Andrew's Church. Mrs. McRae[?] in garden
+2019692233,0.10998345166444778,22.954292336280254,253.0,St. Andrew's Church. Mrs McRae[?] in garden
+2019692234,0.12026436626911163,7.020526763747231,250.0,St. Andrew's Church. Mrs. McRae[?] at the organ in robes
+2019692235,0.14278830587863922,6.492604182419136,253.0,St. Andrew's Church. Mrs. McRae[?] at the organ in robes
+2019692236,0.15453940629959106,31.065134675247823,253.0,"Damascus, Palais Azem. The dining hall. The ceiling"
+2019692237,0.15777599811553955,18.538813488771126,254.0,"Damascus, Palais Azem. The dining hall at N.E. corner of courtyard"
+2019692238,0.17261755466461182,35.83748481849495,255.0,"Damascus, Palais Azem. Finest of the reception rooms. The ceiling over the dais"
+2019692239,0.12669044733047485,35.07671684084087,255.0,"Damascus, Palais Azem. Finest of reception rooms. The two ceilings"
+2019692240,0.14232994616031647,18.80568944009506,248.0,"Damascus, Palais Azem. Finest of reception rooms"
+2019692241,0.18985751271247864,22.17869300381031,254.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. General view of site from hospital (Gilead Mission) with castle in background. From east [?] hi[ll?]"
+2019692242,0.1400439590215683,20.16544281179452,245.0,"Damascus, Palais Azem. Finest of reception rooms, upright, showing corner of ceiling"
+2019692243,0.11735858023166656,13.042252519308093,254.0,Ephesus. Marble street. Ruins of theater on left?
+2019692244,0.18359343707561493,11.892073702401873,252.0,"'Y' Hostel, old post office building"
+2019692248,0.14878533780574799,17.608696835325468,244.0,"Gamil [i.e. Jamil] and Najeb [i.e. Najib] Albina and Lewis Larson [i.e., Larsson] at the cinema developing work at A.C. [i.e., American Colony]"
+2019692249,0.13558895885944366,19.364822546470766,243.0,Olaf Matson
+2019692250,0.1652514934539795,12.286979285477589,247.0,Church of Lazarus in Bethany
+2019692251,0.14543406665325165,19.352384074661565,252.0,Bethany. Village showing Church of Lazarus
+2019692252,0.1626674234867096,27.007855745256606,255.0,Church of Holy Sepulchre showing the two domes
+2019692253,0.10018564760684967,19.48309658396067,246.0,"Rome. Surfaced Appian Way in Rome, modern highway"
+2019692254,0.1304652839899063,28.742816524018373,255.0,Delphi in Greece. The theater & Temple of Apollo beyond on left
+2019692255,0.24550935626029968,23.077960553929497,251.0,Old Corinth. Ruins of old Corinth. The Temple of Apollo. Agora Corinth in background. Temples on distant hilltop
+2019692256,0.13939645886421204,27.237763907488286,251.0,"Gethsemane, in the garden"
+2019692257,0.10653747618198395,27.29167048405924,255.0,Near Ephesus. Site of the great Temple of Artemis once excavated here and later silted over. Ruins under soil
+2019692258,0.13271448016166687,30.741238839127988,255.0,"Gethsemane, in the garden"
+2019692259,0.17789813876152039,14.400143680658772,246.0,"Damascus. St. Paul's Wall, restored"
+2019692260,0.2164742648601532,20.41778048099505,251.0,"""Ruth"" story. Bedouin tent. General view (a chieftain's tent)"
+2019692263,0.14077600836753845,16.605307971992087,245.0,A train of camels
+2019692264,0.13312876224517822,15.365536952583295,245.0,Ramallah woman in embroidered costume
+2019692265,0.15254634618759155,24.314289557981304,255.0,Galilee. Galilee Sea. Bethsaida
+2019692266,0.14416423439979553,10.782800591960692,243.0,"Bethlehem. Interior, Nativity Church at Xmas [i.e., Christmas] time. Sun's rays"
+2019692267,0.17969992756843567,26.312319378097794,255.0,Ain Habis
+2019692268,0.1297226995229721,26.391072261115816,253.0,"Gethsemane, in the garden"
+2019692269,0.10547096282243729,26.617987802998176,255.0,"Gethsemane, in the garden"
+2019692270,0.13764071464538574,22.509824729551834,254.0,"Damascus, Palais Azem. General view of courtyard taken from north roof"
+2019692271,0.12799863517284393,36.14852253598187,255.0,Ephesus. The great theater
+2019692272,0.14632415771484375,13.511721700751865,241.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. The doctor's (Dorey) sitting room"
+2019692273,0.11520851403474808,15.746119967233152,246.0,Damascus. The Ommayad Mosque. The entrance from inside
+2019692274,0.08715479075908661,18.417716248741254,248.0,Damascus. Jamal Pasha Boulevard looking down from Bauk building roof
+2019692275,0.0743027925491333,20.845313611409896,255.0,"Damascus. Jamal Pasha Boulevard, east end"
+2019692276,0.08432208746671677,13.051646517604219,253.0,Damascus. R. Aboua from one of the bridges
+2019692277,0.07748692482709885,16.964020213400545,253.0,Damascus. General view of R. Aboua from roof of Ommayade Hotel
+2019692278,0.09017087519168854,16.371067054900994,248.0,Damascus. Panorama in 2 sections of Damascus from Ommayade Hotel. Meidan Square in foreground
+2019692279,0.15044255554676056,12.824728545230263,241.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. In the doctor's sitting room"
+2019692280,0.12902353703975677,16.260886063248382,254.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. Hospital building"
+2019692281,0.13634167611598969,18.475972259557867,253.0,"Mr. Oliver's school, Ras-el-Matn. The sitting room"
+2019692282,0.13118566572666168,18.639869806008786,251.0,"Mr. Oliver's school, Ras-el-Matn. School front with school boys"
+2019692283,0.13923735916614532,12.323054399230822,243.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. Dr. McLean in his study in his house"
+2019692284,0.11102433502674103,19.124103818032623,255.0,"Damascus, Palais Azem. The north vestibule, in front of reception room"
+2019692285,0.12943854928016663,12.867482159162144,239.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. The nurses sitting room"
+2019692286,0.14479640126228333,12.373053873619462,245.0,Damascus. The Ommayad Mosque. Mosaics on walls near entrance
+2019692287,0.17030473053455353,8.3660469090997,244.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. Dr. Dorey's study"
+2019692288,0.14185048639774323,8.527432469244218,253.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. A private room"
+2019692289,0.12187997996807098,8.060364801263264,246.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. The operating room"
+2019692290,0.16141124069690704,13.682684337480962,251.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. The women's ward"
+2019692291,0.16176864504814148,11.74433168169561,247.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. The men's ward"
+2019692292,0.1381053328514099,17.929771639927278,254.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. Group. Staff in front of entrance to women's ward"
+2019692293,0.10257302969694138,13.407603070093637,247.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. Rasis Esau's group in front of garage building"
+2019692294,0.1871062070131302,10.784574833055299,250.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. Dr. McLean's house"
+2019692295,0.13137459754943848,15.616489404420847,254.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. Entrance to hospital enclosure. Visitors waiting for opening of the gate"
+2019692296,0.18067722022533417,20.35228798898882,254.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. Hospital building seen through trees from the east"
+2019692297,0.1529325544834137,11.580862929541473,254.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. Hospital building, closer up"
+2019692298,0.1197458952665329,11.577391697860405,241.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. Hospital site from the castle, from upper storey [i.e., story]"
+2019692299,0.15080979466438293,7.172471945322068,241.0,"Dr. C. MacLean, Ajlun. Gilead Mission Hospital. A nurse's bedroom"
+2019692300,0.12849628925323486,20.746513505305288,246.0,Damascus. The Ommayad Mosque. Mosque interior Tomb of John the Baptist
+2019692301,0.19338172674179077,24.424046361118037,254.0,"Damascus, Palais Azem. Courtyard & colonnade. Colonnade reflected in water"
+2019692302,0.1385948657989502,22.111283525683156,254.0,"Damascus, Palais Azem. Courtyard & colonnade. Central fount in foreground"
+2019692303,0.19096380472183228,23.823557816954718,250.0,"Damascus, Palais Azem. Courtyard & colonnade looking north"
+2019692304,0.11778027564287186,23.814820442190207,255.0,"Damascus, Palais Azem. General view of courtyard looking east"
+2019692305,0.15119287371635437,18.904996701119412,253.0,"Damascus. The Ommayad Mosque. View from minaret. Houses[?], looking N.E."
+2019692306,0.13415682315826416,18.860059551095787,255.0,Damascus. The Ommayad Mosque. View from minaret. Panorama in 2 sections of Damascus looking west and N.W.
+2019692307,0.11968518793582916,15.30905828291069,254.0,Damascus. The Ommayad Mosque. View from minaret. Panorama in 2 sections of Damascus looking west and N.W.
+2019692308,0.11458133906126022,11.637989852371526,253.0,Damascus. The Ommayad Mosque. View from minaret. S.W. minaret close up
+2019692309,0.09925216436386108,9.809971899149643,247.0,Damascus. The Ommayad Mosque. View from minaret showing S.W. minaret & city
+2019692310,0.10656443983316422,11.669919438809524,252.0,Damascus. The Ommayad Mosque. View from minaret showing part of the mosque & city beyond looking S.
+2019692311,0.1320519745349884,29.022901488399615,252.0,"Damascus. The Ommayad Mosque. The mihrab and pulpit, close up"
+2019692312,0.11405272036790848,26.87200807419422,253.0,"Damascus. The Ommayad Mosque. The mihrab and pulpit, lengthwise, close up"
+2019692313,0.16669775545597076,11.630106518052722,235.0,Damascus. The Ommayad Mosque. The entrance from courtyard
+2019692314,0.12215308845043182,21.55606898447625,253.0,"Damascus. The Ommayad Mosque. Mosque interior Tomb of John the Baptist, central aisle"
+2019692315,0.17192763090133667,12.980773517396678,248.0,Damascus. The Ommayad Mosque. The entrance from courtyard
+2019692316,0.14466676115989685,19.233407909651575,240.0,"Damascus. The Ommayad Mosque. Mosque interior general view, south aisle"
+2019692317,0.1504458785057068,16.707442557012325,251.0,"Damascus. The Ommayad Mosque. Mosque interior, general view, north aisle"
+2019692318,0.12632764875888824,22.198345151751667,250.0,"Damascus. The Ommayad Mosque. Mosque interior general view, north aisle"
+2019692319,0.16572418808937073,14.508569332947863,251.0,Damascus. The Ommayad Mosque. Façade of mosque showing main[?] dome and entrance
+2019692320,0.11640505492687225,15.180613854013428,248.0,"Damascus. The Ommayad Mosque. The fount in courtyard, close up"
+2019692321,0.13418810069561005,12.18567506044363,251.0,Damascus. The Ommayad Mosque. Façade of mosque from northern roof
+2019692322,0.12778307497501373,14.431139975057345,252.0,"Damascus. The Ommayad Mosque. Façade of mosque through colonnade closer up, central section"
+2019692323,0.13237342238426208,15.691058335499372,253.0,Damascus. The Ommayad Mosque. Façade of mosque through colonnade
+2019692324,0.18687479197978973,14.01585676608686,248.0,Damascus. The Ommayad Mosque. N. colonnade and minaret
+2019692325,0.12938453257083893,10.036499551686612,249.0,Damascus. The Ommayad Mosque. General view of courtyard and main minaret upright
+2019692326,0.11747188866138458,11.443457662450854,254.0,Damascus. The Ommayad Mosque. General view of courtyard and main minaret
+2019692328,0.10892774164676666,26.823271741045307,254.0,"Damascus. The Ommayad Mosque. The mihrab and pulpit, upright"
+2019701866,0.13222917914390564,6.5804573608167765,244.0,"Mr. Detcherd's house, etc., Tripoli. Groups of the family around the piano"
+2019701870,0.18024972081184387,8.712392296165884,253.0,Jewish Brigade recruitment
+2019701871,0.15010899305343628,8.26983305355974,253.0,Jewish Brigade recruitment
+2019701877,0.15790174901485443,10.821342282297335,247.0,Bethlehem
+2019701878,0.17024074494838715,13.621771322826326,231.0,[View of Bethlehem]
+2019701879,0.19896574318408966,12.394988624027484,224.0,[View of Bethlehem]
+2019701880,0.12035636603832245,5.310519099833092,246.0,Bethlehem
+2019701881,0.12880896031856537,10.820734978351254,247.0,Bethlehem
+2019701882,0.1791514754295349,8.764177542559116,249.0,Bethlehem
+2019701883,0.14614228904247284,7.744833374130738,247.0,Bethlehem
+2019701884,0.08609258383512497,6.1559713868189325,250.0,Bethlehem
+2019701885,0.16597400605678558,4.994334294498548,246.0,Bethlehem
+2019701886,0.14698155224323273,6.3485300253149335,245.0,Bethlehem
+2019701887,0.1967800259590149,10.168836030460707,247.0,The manger
+2019701888,0.12450476735830307,6.876872665616507,245.0,Bethlehem
+2019701889,0.09525418281555176,7.780362742122129,243.0,[The Basilica of Gethsemane or Church of All Nations]
+2019701890,0.09774233400821686,10.547864446648806,247.0,"[Rachel's Tomb, outside Bethlehem]"
+2019701891,0.11070169508457184,8.259592010220405,241.0,[Beirut and St. George's Bay. Showing snow-clad Sunnin]
+2019701892,0.0732445940375328,4.5568264447917075,229.0,Bethlehem
+2019701893,0.14265316724777222,10.098924792917172,245.0,"[Famous religious paintings. The Nativity, by G. Bagioli, in the Church of the Nativity, Bethlehem]"
+2019701894,0.132915198802948,4.2578065249187995,208.0,"[Famous religious paintings. The Angel at the Tomb by Verestchaguine, in Russian Church of St. Magdalene, on Olivet]"
+2019701895,0.1353776603937149,8.692153703786834,245.0,"[Famous religious paintings. ""Abide with us,"" by Furst, in Austrian Hospice, Jerusalem]"
+2019701896,0.14128640294075012,7.420676335268078,245.0,"[Famous religious paintings. ""Abide with us,"" by Fürst, in Austrian Hospice, Jerusalem]"
+2019701897,0.14799299836158752,7.230516604740616,247.0,"[Famous religious paintings. ""The Breaking of Bread"" at Emmaus, by Martinetti, in Latin Church of el-Kubebeh]"
+2019701898,0.1404799222946167,8.830084026338273,247.0,"[Famous religious paintings. The Agony in the Garden, by Repen, in Russian Church of the Magdalene, on Mount of Olives]"
+2019701899,0.13913828134536743,8.31266604937945,246.0,"[Famous religious paintings. The Agony in the Garden, by Repen, in Russian Church of the Magdalen, on Mount of Olives]"
+2019701900,0.13730065524578094,8.136998792818618,246.0,"[Famous religious paintings. The Agony in the Garden, by Repen, in Russian Church of the Magdalene, on Mount of Olives]"
+2019701901,0.14998695254325867,8.653559267999126,243.0,"[Religious paintings in Palestine. The Holy Family, by François Le Fond, in Church of the Carpenter, Nazareth]"
+2019701903,0.10913864523172379,6.904119695810169,228.0,Bethlehem
+2019701904,0.14768879115581512,9.227900021260949,246.0,"[Shepherds' Fields, east of Bethlehem]"
+2019701905,0.0721575990319252,4.8866945924238285,198.0,23rd Psalm
+2019701906,0.09013709425926208,4.838946889793719,167.0,23rd Psalm
+2019701907,0.08690475672483444,6.908501756878789,218.0,23rd Psalm
+2019701908,0.0969948023557663,3.7267527915830936,198.0,23rd Psalm
+2019701909,0.0858142301440239,4.652800787888936,191.0,23rd Psalm
+2019701910,0.11143577843904495,4.367594614948852,155.0,23rd Psalm
+2019701911,0.11172789335250854,4.244320896041956,140.0,23rd Psalm
+2019701912,0.10447198152542114,4.815403951481503,176.0,23rd Psalm
+2019701913,0.11448356509208679,5.620079911639,210.0,23rd Psalm
+2019701914,0.11283554881811142,5.021186675178186,202.0,23rd Psalm
+2019701915,0.08914167433977127,3.7694956077813515,162.0,23rd Psalm
+2019701916,0.2109692096710205,8.253132244870919,204.0,[Grotto of the Nativity in Bethlehem]
+2019701917,0.09616370499134064,3.6398818017713674,189.0,23rd Psalm
+2019701918,0.19814082980155945,9.160962087880682,242.0,[Grotto of the Nativity in Bethlehem]
+2019701919,0.13420049846172333,11.075037333000745,199.0,Kishon
+2019701920,0.15329547226428986,7.209300017061213,179.0,"[Tel Deweir (Lachish). Section of revetment to city gates. Area shows abundant traces of burning, which destroyed Lachish 589? B.C. due to conflagration]"
+2019701921,0.14650261402130127,10.736001661391445,223.0,[Ruins of stairs and arch at archaeological excavation]
+2019701922,0.12397903203964233,12.652009891270817,237.0,"[Man and woman seated on ground measuring wheat and woman sifting wheat, part of the ""Ruth the Moabitess"" series]"
+2019701923,0.15445926785469055,11.86560517034813,237.0,"[Man and woman seated on ground measuring wheat and a woman in background sifting wheat, from the Ruth the Moabitess series]"
+2019701924,0.20760972797870636,14.152401699266926,224.0,[Northern views. Plain of Esdraelon]
+2019701925,0.15220174193382263,12.886757664166808,233.0,[Abraham's Oak]
+2019701926,0.1708105355501175,10.902742948776787,240.0,"[Road to Jericho (Er-Riha), etc. Remains of city wall of ancient Jericho]"
+2019701927,0.21617192029953003,5.869303367285021,213.0,[Tiberias with Mount Hermon in background]
+2019701928,0.15693223476409912,15.534663988718476,224.0,[Nazareth?]
+2019701929,0.10296638309955597,7.890306398068023,234.0,[Boat on the Sea of Galilee?]
+2019701930,0.1222076267004013,11.663488999168125,222.0,[St. George's Convent]
+2019701931,0.11571578681468964,7.354872139718713,193.0,23rd Psalm
+2019701944,0.16109812259674072,8.15657370578248,241.0,"[Religious paintings in Palestine. The Holy Family, by François Le Fond, in Church of the Carpenter, Nazareth]"
+2019701960,0.14885661005973816,17.501167291247885,231.0,"[Chapel of Ecce Homo, Jerusalem]"
+2019701961,0.2054690271615982,8.60491102729926,243.0,Via Dolorosa
+2019701962,0.17770123481750488,7.492809125049607,244.0,Via Dolorosa
+2019701963,0.18077151477336884,8.305065447390414,250.0,Via Dolorosa
+2019701964,0.13759197294712067,14.110327609941805,238.0,Mt. Zion
+2019701965,0.12559080123901367,9.186120485867665,244.0,"[Set of thirteen select slides of shepherd life, illustrating the Twenty Third Psalm. ""I will dwell in the house of the Lord""]"
+2019701985,0.15421155095100403,12.206890124355763,227.0,Egypt
+2019701999,0.18092046678066254,8.054366953644685,235.0,Nejaf. The Great Mosque
+2019702042,0.11056157946586609,8.644694661323683,238.0,House in Africa
+2019702044,0.1202847883105278,10.829740415167771,243.0,[Tel Aviv]
+2019702045,0.08968232572078705,7.362557140875429,243.0,[Tel Aviv. Moghrabi theater. Movie picture house]
+2019702046,0.1490115225315094,5.244574305719947,241.0,[Seated man smoking nargile (water pipe)]
+2019702047,0.17336328327655792,9.452471430590597,242.0,"[Crowded beach, Tel Aviv (looking seaward)]"
+2019702048,0.10364854335784912,8.27044868214397,246.0,[Street in Tel Aviv?]
+2019702049,0.17296159267425537,7.020300332511308,232.0,[Snake eating mouse]
+2019702050,0.0891774445772171,6.10897624052192,248.0,[Street in Tel Aviv?]
+2019702051,0.1321411281824112,7.710503791569999,244.0,[Caravan of cars]
+2019702052,0.21708035469055176,6.415520602133626,243.0,"[Beach, probably in Tel Aviv]"
+2019702053,0.09079891443252563,7.478781053741791,242.0,[Tel Aviv. Dizengoff Circle from the north]
+2019702055,0.08556393533945084,8.52215673401275,217.0,House in Africa
+2019702057,0.1663350909948349,5.814693097939866,172.0,African women
+2019702058,0.15731874108314514,6.376108673161833,191.0,African women
+2019702059,0.15968012809753418,6.511993772727191,212.0,Africa women
+2019702060,0.09898378700017929,10.198818115873175,238.0,"[Boats in harbor, Egypt?]"
+2019702061,0.15374992787837982,15.225482437808296,250.0,[Copy of a painting? of Mary and Joseph in Bethlehem]
+2019702062,0.15403228998184204,7.975261980795091,230.0,[Egypt. Pyramids of Gizeh. The Great Pyramid. Reflecting pyramid and mounted camelman]
+2019702063,0.11629724502563477,7.277965834927635,243.0,[Sphinx and pyramid]
+2019702064,0.17323756217956543,12.415247743376032,251.0,"[Matt. 27:27-30. Jesus, arrayed in mock state, is brutally entreated by the Roman soldiers]"
+2019702065,0.1301756203174591,10.730609029455188,239.0,"Egypt, [Cairo Museum]"
+2019702066,0.1466768980026245,8.8131212573055,241.0,Egypt
+2019702067,0.12833601236343384,11.451712597368624,227.0,Egypt
+2019702069,0.12791772186756134,5.179675260543905,249.0,[Snake chasing a mouse]
+2019702071,0.17404645681381226,15.384873423670674,243.0,"[Egyptian views; Temple of Horus, Edfu. Colonnade in court showing carving on pillars]"
+2019702082,0.14944691956043243,6.523511115993575,247.0,[Tel Aviv(?) at night]
+2019702093,0.11888986080884933,9.835936430940524,236.0,"[Sail boats in harbor, Egypt?]"
+2019702094,0.10154818743467331,13.310393918636688,233.0,Bethlehem
+about-this-collection,0.1046532541513443,7.150239173976901,203.0,Matson (G. Eric and Edith) Photograph Collection

@@ -79,7 +79,8 @@ def main():
 
     meta = load_meta()
     autos = sorted(i for i, m in meta.items()
-                   if "autochrome" in m.get("medium", "").lower()
+                   if "color" in m.get("medium", "").lower()
+                   and "hand-color" not in m.get("medium", "").lower()
                    and os.path.exists(os.path.join(IMG_DIR, i + ".jpg")))
     if args.limit:
         autos = autos[:args.limit]

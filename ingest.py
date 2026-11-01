@@ -118,38 +118,56 @@ def report(rows):
           f"{len(rich)} ({len(rich)/total*100:.1f}%)")
 
     auto = sum(1 for r in rows if "autochrome" in r["medium"].lower())
-    print(f"Autochromes (real colour originals): {auto}")
+    col = sum(1 for r in rows if "color" in r["medium"].lower()
+              and "hand-color" not in r["medium"].lower())
+    hand = sum(1 for r in rows if "hand-color" in r["medium"].lower())
+    print(f"Colour originals: {col} (autochromes {auto}, hand-coloured excluded: {hand})")
 
     print("\nSample titles:")
     for r in rows[:5]:
         print(f"  {r['title'][:90]}")
 
 
-def download(rows, limit):
+def fetch(url, tries=3):
+    for t in range(tries):
+        try:
+            req = request.Request(url, headers={"User-Agent": UA})
+            with request.urlopen(req, timeout=30) as resp:
+                return resp.read()
+        except Exception:
+            if t < tries - 1:
+                time.sleep(2 ** t * 3)
+    return None
+
+def download(rows, limit, passes=40, pause=120):
     os.makedirs(IMG_DIR, exist_ok=True)
     todo = [r for r in rows if r["image_url"]][:limit]
-    print(f"\nDownloading {len(todo)} images to {IMG_DIR}/")
+    print(f"\nTarget: {len(todo)} images in {IMG_DIR}/")
 
-    ok = 0
-    for i, r in enumerate(todo, 1):
-        dest = os.path.join(IMG_DIR, f"{r['id']}.jpg")
-        if os.path.exists(dest):
-            ok += 1
-            continue
-        try:
-            req = request.Request(r["image_url"], headers={"User-Agent": UA})
-            with request.urlopen(req, timeout=60) as resp:
-                blob = resp.read()
-            with open(dest, "wb") as fh:
-                fh.write(blob)
-            ok += 1
-        except Exception as exc:
-            print(f"  {r['id']}: {exc}")
-        if i % 25 == 0:
-            print(f"  {i}/{len(todo)}")
-        time.sleep(0.3)
+    for p in range(1, passes + 1):
+        missing = [r for r in todo
+                   if not os.path.exists(os.path.join(IMG_DIR, f"{r['id']}.jpg"))]
+        if not missing:
+            break
+        print(f"\npass {p}: {len(todo) - len(missing)} done, {len(missing)} to go")
+        got = 0
+        for i, r in enumerate(missing, 1):
+            blob = fetch(r["image_url"])
+            if blob:
+                with open(os.path.join(IMG_DIR, f"{r['id']}.jpg"), "wb") as fh:
+                    fh.write(blob)
+                got += 1
+            if i % 25 == 0:
+                print(f"  {i}/{len(missing)}  (+{got})")
+            time.sleep(0.3)
+        print(f"  pass {p}: +{got}")
+        if got == 0 and p < passes:
+            print(f"  nothing came through, waiting {pause}s")
+            time.sleep(pause)
 
-    print(f"Downloaded {ok}/{len(todo)}")
+    have = sum(1 for r in todo
+               if os.path.exists(os.path.join(IMG_DIR, f"{r['id']}.jpg")))
+    print(f"\n{have}/{len(todo)} on disk")
 
 
 def main():

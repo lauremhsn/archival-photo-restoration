@@ -115,7 +115,8 @@ def main():
     for i, fn in enumerate(files, 1):
         iid = fn[:-4]
         m = meta.get(iid, {})
-        is_auto = "autochrome" in m.get("medium", "").lower()
+        med = m.get("medium", "").lower()
+        is_auto = "color" in med and "hand-color" not in med
 
         try:
             orig = np.asarray(Image.open(os.path.join(IMG_DIR, fn)).convert("RGB"))
