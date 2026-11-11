@@ -31,7 +31,7 @@ sys.path.insert(0, os.path.join(HERE, "scripts"))
 import colorizers  # noqa: E402
 from degrade import CORE, EXTRA, degrade, image_seed  # noqa: E402
 
-IMG_DIR = "data/matson"
+IMG_DIR = "data/matson/images"
 FIG_DIR = "figures"
 CSV = "matson.csv"
 

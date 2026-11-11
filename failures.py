@@ -17,7 +17,7 @@ import numpy as np
 from scipy.stats import wilcoxon
 
 FIG_DIR = "figures"
-IMG_DIR = "data/matson"
+IMG_DIR = "data/matson/images"
 OUT_ROOT = "outputs"
 
 BUCKETS = {

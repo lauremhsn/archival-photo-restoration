@@ -17,7 +17,7 @@ import numpy as np
 from PIL import Image
 from skimage import color as skcolor
 
-IMG_DIR = "data/matson"
+IMG_DIR = "data/matson/images"
 FIG_DIR = "figures"
 CSV = "matson.csv"
 

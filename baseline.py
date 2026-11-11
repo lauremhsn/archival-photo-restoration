@@ -28,7 +28,7 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)),
                                 "..", "colorization"))
 import colorizers  # noqa: E402
 
-IMG_DIR = "data/matson"
+IMG_DIR = "data/matson/images"
 OUT_DIR = "outputs/baseline"
 FIG_DIR = "figures"
 CSV = "matson.csv"

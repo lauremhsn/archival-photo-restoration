@@ -48,7 +48,7 @@ print(f"greyscale targets: {n - len(col) - len(hand)}")
 usable = sum(1 for r in meta if len(r["title"].split()) >= 5 and r["image_url"])
 print(f"usable for conditioning (title>=5w + image): {usable} ({usable/n*100:.1f}%)")
 
-imgs = len(glob.glob("data/matson/*.jpg"))
+imgs = len(glob.glob("data/matson/images/*.jpg"))
 print(f"images on disk: {imgs}")
 
 locs = Counter()

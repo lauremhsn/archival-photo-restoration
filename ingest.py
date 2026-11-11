@@ -17,7 +17,7 @@ import time
 from urllib import error, request
 
 OUT_CSV = "matson.csv"
-IMG_DIR = "data/matson"
+IMG_DIR = "data/matson/images"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
 
 PERIOD_NAMES = {
