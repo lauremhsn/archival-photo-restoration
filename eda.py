@@ -82,10 +82,17 @@ def figures(rows):
     os.makedirs(FIG_DIR, exist_ok=True)
 
     fig, ax = plt.subplots(1, 3, figsize=(15, 4))
-    ax[0].scatter([r["w"] for r in rows], [r["h"] for r in rows], s=8, alpha=0.5)
-    ax[0].set_xlabel("width (px)")
-    ax[0].set_ylabel("height (px)")
-    ax[0].set_title("Resolution")
+    grey_tone = [r["tone"] for r in rows if not r["colour"]]
+    col_tone = [r["tone"] for r in rows if r["colour"]]
+    bins = np.linspace(0, max(r["tone"] for r in rows), 40)
+    ax[0].hist(grey_tone, bins=bins, alpha=0.6,
+               label=f"greyscale targets (n={len(grey_tone)})")
+    ax[0].hist(col_tone, bins=bins, alpha=0.6,
+               label=f"colour originals (n={len(col_tone)})")
+    ax[0].set_xlabel("mean LAB chroma")
+    ax[0].set_ylabel("images")
+    ax[0].set_title("Chroma cast")
+    ax[0].legend(fontsize=8)
 
     ax[1].hist([r["aspect"] for r in rows], bins=40)
     ax[1].set_xlabel("aspect ratio (w/h)")
@@ -151,6 +158,8 @@ def report(rows):
     hs = [r["h"] for r in rows]
     print(f"width  median {int(statistics.median(ws))}  range {min(ws)}-{max(ws)}")
     print(f"height median {int(statistics.median(hs))}  range {min(hs)}-{max(hs)}")
+    longs = [max(r["w"], r["h"]) for r in rows]
+    print(f"long edge median {int(statistics.median(longs))}  range {min(longs)}-{max(longs)}")
 
     land = sum(1 for r in rows if r["aspect"] > 1)
     print(f"landscape {land} ({land/n*100:.0f}%)  portrait {n-land} ({(n-land)/n*100:.0f}%)")
@@ -162,8 +171,14 @@ def report(rows):
     print(f"greyscale (colorization targets) {n-col}")
 
     tones = [r["tone"] for r in rows if not r["colour"]]
-    print(f"\nsepia strength (mean LAB chroma, greyscale scans only)")
-    print(f"  median {statistics.median(tones):.1f}  range {min(tones):.1f}-{max(tones):.1f}")
+    ctones = [r["tone"] for r in rows if r["colour"]]
+    print(f"\nmean LAB chroma")
+    if tones:
+        print(f"  greyscale targets  median {statistics.median(tones):.1f}"
+              f"  range {min(tones):.1f}-{max(tones):.1f}")
+    if ctones:
+        print(f"  colour originals   median {statistics.median(ctones):.1f}"
+              f"  range {min(ctones):.1f}-{max(ctones):.1f}")
 
     dyn = [r["p99"] - r["p01"] for r in rows]
     faded = sum(1 for d in dyn if d < 180)
