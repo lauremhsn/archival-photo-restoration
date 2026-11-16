@@ -57,7 +57,8 @@ def predict_rgb(net, truth_rgb, feat, mask, size=256, dev="cuda"):
 
 def load_model(ckpt, dev):
     c = torch.load(ckpt, map_location=dev)
-    net = CondUNet(**c["model_args"]).to(dev).eval()
+    # checkpoints from before the padding option were trained with zero padding
+    net = CondUNet(**{"padding": "zeros", **c["model_args"]}).to(dev).eval()
     net.load_state_dict(c["model"])
     return net, c
 

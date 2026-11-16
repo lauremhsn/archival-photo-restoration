@@ -90,12 +90,19 @@ class Up(nn.Module):
 
 class CondUNet(nn.Module):
     def __init__(self, widths=(32, 64, 128, 384), blocks=(1, 1, 2, 2), bottleneck=640,
-                 xattn_levels=(3, 2), use_text=True):
+                 xattn_levels=(3, 2), use_text=True, padding="reflect"):
         """blocks: residual blocks per level (fewer at high resolution, where activations
         are largest). xattn_levels: decoder levels (index into widths) that get
         cross-attention; the bottleneck always has it when use_text. use_text=False builds
-        the same UNet with no attention (text-free control; efficiency study #21)."""
+        the same UNet with no attention (text-free control; efficiency study #21).
+
+        padding: 'reflect' (default) or 'zeros'. With zero padding the network can locate
+        absolute positions from the image border, and both trained runs used that to park a
+        huge activation at one fixed cell near a corner, which showed up as a saturated
+        colour patch in every prediction, even on a blank input. Reflect padding hides the
+        border, which removes that fixed-position shortcut."""
         super().__init__()
+        self.padding = padding
         self.use_text = use_text
         if isinstance(blocks, int):
             blocks = (blocks,) * len(widths)
@@ -114,6 +121,9 @@ class CondUNet(nn.Module):
             self.ups.append(Up(c, widths[lvl], widths[lvl], blocks[lvl], use_text and lvl in xattn_levels))
             c = widths[lvl]
         self.head = nn.Sequential(norm(c), nn.SiLU(), nn.Conv2d(c, 2, 1))
+        for m in self.modules():  # every 3x3 conv (incl. strided downsampling) pads the same way
+            if isinstance(m, nn.Conv2d) and m.kernel_size == (3, 3):
+                m.padding_mode = padding
 
     def forward(self, L, text=None, text_mask=None):
         x = self.stem(L)

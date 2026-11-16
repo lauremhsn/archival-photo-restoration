@@ -73,6 +73,8 @@ def main():
     ap.add_argument("--warmup", type=int, default=300, help="warm-up steps")
     ap.add_argument("--caption-dropout", type=float, default=0.1)
     ap.add_argument("--no-text", action="store_true", help="UNet without cross-attention (control / #21)")
+    ap.add_argument("--padding", default="reflect", choices=["reflect", "zeros"],
+                    help="conv padding; 'zeros' reproduces the first two runs (corner-patch artifact)")
     ap.add_argument("--val-every", type=int, default=2)
     ap.add_argument("--workers", type=int, default=2)
     ap.add_argument("--seed", type=int, default=693)
@@ -99,7 +101,7 @@ def main():
                     num_workers=args.workers, persistent_workers=args.workers > 0)
     empty_feat, empty_mask = table[None]
 
-    model_args = {"use_text": not args.no_text}
+    model_args = {"use_text": not args.no_text, "padding": args.padding}
     net = CondUNet(**model_args).to(dev)
     opt = torch.optim.AdamW(net.parameters(), lr=args.lr, weight_decay=args.weight_decay)
     total = args.epochs * len(dl)
