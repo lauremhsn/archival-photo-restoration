@@ -77,10 +77,10 @@ def extract(rec):
     }
 
 
-def load():
-    files = sorted(glob.glob("page*.json"))
+def load(pattern="page*.json"):
+    files = sorted(glob.glob(pattern))
     if not files:
-        sys.exit("No page*.json found. Save the browser pages into this folder first.")
+        sys.exit(f"Nothing matched {pattern}. Save the browser pages there first.")
 
     rows, seen = [], set()
     for path in files:
@@ -171,22 +171,27 @@ def download(rows, limit, passes=40, pause=120):
 
 
 def main():
+    global IMG_DIR
     ap = argparse.ArgumentParser()
     ap.add_argument("--download", action="store_true")
     ap.add_argument("--limit", type=int, default=300)
+    ap.add_argument("--pages", default="page*.json")
+    ap.add_argument("--out", default=OUT_CSV)
+    ap.add_argument("--img-dir", default=IMG_DIR)
     args = ap.parse_args()
+    IMG_DIR = args.img_dir
 
-    rows = load()
+    rows = load(args.pages)
     if not rows:
         sys.exit("No records parsed.")
 
     report(rows)
 
-    with open(OUT_CSV, "w", newline="", encoding="utf-8") as fh:
+    with open(args.out, "w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
         w.writeheader()
         w.writerows(rows)
-    print(f"\nWrote {OUT_CSV}")
+    print(f"\nWrote {args.out}")
 
     if args.download:
         download(rows, args.limit)
