@@ -8,6 +8,8 @@ scikit-image>=0.22
 transformers>=4.40
 # PyTorch: install separately with the CUDA build that matches your GPU, e.g. GTX 1060 (Pascal):
 #   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu126
+# RTX 4070 laptop (Ada) runs cu130 instead:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
 # (CUDA 12.8+ builds no longer support Pascal cards.)
 torch>=2.2
 torchvision>=0.17

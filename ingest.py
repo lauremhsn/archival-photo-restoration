@@ -174,7 +174,7 @@ def main():
     global IMG_DIR
     ap = argparse.ArgumentParser()
     ap.add_argument("--download", action="store_true")
-    ap.add_argument("--limit", type=int, default=300)
+    ap.add_argument("--limit", type=int, default=None)
     ap.add_argument("--pages", default="page*.json")
     ap.add_argument("--out", default=OUT_CSV)
     ap.add_argument("--img-dir", default=IMG_DIR)
